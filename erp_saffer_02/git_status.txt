@@ -1,0 +1,2898 @@
+﻿On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+	modified:   ../../../Downloads/erp_saffer/erp_backend (new commits, modified content)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../../../.VirtualBox/
+	../../../.anaconda/
+	../../../.android/
+	../../../.angular-config.json
+	../../../.antigravity/
+	../../../.arduinoIDE/
+	../../../.bash_history
+	../../../.cache/
+	../../../.cagent/
+	../../../.conda/
+	../../../.condarc
+	../../../.config/
+	../../../.continuum/
+	../../../.docker/
+	../../../.emulator_console_auth_token
+	../../../.gemini/
+	../../../.git-for-windows-updater
+	../../../.gitconfig
+	../../../.gradle/
+	../../../.idea/
+	../../../.idlerc/
+	../../../.ipynb_checkpoints/
+	../../../.ipython/
+	../../../.jupyter/
+	../../../.lesshst
+	../../../.m2/
+	../../../.matplotlib/
+	../../../.nuget/
+	../../../.python_history
+	../../../.skiko/
+	../../../.ssh/
+	../../../.sts4/
+	../../../.th-client/
+	../../../.viminfo
+	../../../.virtual_documents/
+	../../../.vscode/
+	../../../AndroidStudioProjects/
+	../../../AppData/
+	../../../BrawlhallaReplays/
+	../../../Contacts/
+	../../../Creative Cloud Files/
+	../../../Desktop/
+	../../../Documents/
+	../../../Downloads/+ntitled design.png
+	../../../Downloads/001CMM413.jpg
+	../../../Downloads/001Untitled design.png
+	../../../Downloads/01ntitled design.png
+	../../../Downloads/02 copy.pdf
+	../../../Downloads/02.png
+	../../../Downloads/02ntitled design.png
+	../../../Downloads/03d3bc15-aa24-4f56-b02b-a0e85ccd3b91 - Copy - Copy.jpeg
+	../../../Downloads/03d3bc15-aa24-4f56-b02b-a0e85ccd3b91 - Copy - Copy.png
+	../../../Downloads/03d3bc15-aa24-4f56-b02b-a0e85ccd3b91 - Copy.jpeg
+	../../../Downloads/03d3bc15-aa24-4f56-b02b-a0e85ccd3b91.jpeg
+	../../../Downloads/03titled design.png
+	../../../Downloads/06e52202c9abab4befbb3673f4404476.jpg
+	../../../Downloads/082c4ba85f8d378d2a6116b824ff6c9d-removebg-preview.png
+	../../../Downloads/082c4ba85f8d378d2a6116b824ff6c9d.jpg
+	../../../Downloads/08969b39b4f05b35bed17d2ddc52db96-removebg-preview.png
+	../../../Downloads/08969b39b4f05b35bed17d2ddc52db96.jpg
+	../../../Downloads/093ad7d6cada7c67e8290ce1b91ecddea06e040a74bfa5c590bd8ddd9b2c2e97_encrypt_signedFinal.pdf
+	../../../Downloads/09939d02-d22c-4784-aa76-7f7154671679.jpeg
+	../../../Downloads/0cd14a57-9cf1-4776-94d8-2da5cec0b976.jpeg
+	../../../Downloads/0f4276c7-bf6a-4597-84ac-53ad6fa376b9.jpeg
+	../../../Downloads/1% (1).png
+	../../../Downloads/1%.png
+	"../../../Downloads/1%\360\237\222\270 men (1).jpeg"
+	"../../../Downloads/1%\360\237\222\270 men.jpeg"
+	../../../Downloads/1) ONE PAGE WRITEUP (1) (1).doc
+	../../../Downloads/1) ONE PAGE WRITEUP (1) (2).doc
+	../../../Downloads/1) ONE PAGE WRITEUP (1).doc
+	../../../Downloads/1. Instructions for preparing documentation.pdf
+	../../../Downloads/1.pdf
+	../../../Downloads/1000458685 (1).png
+	../../../Downloads/1000458721.png
+	../../../Downloads/1000459031.png
+	../../../Downloads/1000459116.png
+	../../../Downloads/101265857216-UAN.pdf
+	../../../Downloads/108196be-e837-45d7-b70f-e35cfc984c74.jpeg
+	../../../Downloads/10th result.pdf
+	../../../Downloads/11102024png.png
+	../../../Downloads/1112841-2048x1365-desktop-hd-cricket-wallpaper.jpg
+	../../../Downloads/1112975-1080x1920-iphone-1080p-cricket-background-image.jpg
+	../../../Downloads/123.png
+	../../../Downloads/1234Untitled design (1).png
+	../../../Downloads/123Untitled design.png
+	../../../Downloads/125e4ef4-c8ed-4304-bbec-27c49375a6a1.jpeg
+	../../../Downloads/12cc8154-178c-4a58-bc82-a54cd07a7f61.jpeg
+	../../../Downloads/12th mark_compressed_compressed (1).pdf
+	../../../Downloads/12th mark_compressed_compressed.pdf
+	../../../Downloads/12th_Marksheet_8914662_7386583075E3498.jpg
+	../../../Downloads/13032025/
+	../../../Downloads/13_About-us.png
+	../../../Downloads/14dbcbbe226043da1a6b72ae7f0dc8e2-removebg-preview.png
+	../../../Downloads/14dbcbbe226043da1a6b72ae7f0dc8e2.jpg
+	../../../Downloads/15 cm.png
+	../../../Downloads/16MARKSDS.pdf
+	../../../Downloads/1735426798938-certificate.png
+	../../../Downloads/1742107218636-certificate.png
+	../../../Downloads/19_Hari Krishnan V (1).pdf
+	../../../Downloads/19_Hari Krishnan V.pdf
+	../../../Downloads/19c8a84e-6604-4792-b140-f7b4fd8a81d6.jpg
+	../../../Downloads/1ST SLIDE FOR TRADERSUntitled design.png
+	../../../Downloads/1Untitled design.png
+	../../../Downloads/1_FG0dtt3AS-a-3d73pMYW9w.jpg
+	../../../Downloads/1_UMq_8ieNtpM-duwDtl0j4Q.webp
+	../../../Downloads/1e7ec3c4-f180-451b-b4b9-e7ea2f6884bc.jpeg
+	../../../Downloads/1st slide.png
+	../../../Downloads/1st.pdf
+	../../../Downloads/1z4IBJVc.jpg
+	../../../Downloads/2) PROJECT REVIEW REPORT FORM 118.doc
+	../../../Downloads/2) PROJECT REVIEW REPORT FORM 118.pdf
+	../../../Downloads/2. Front page format (1).pdf
+	../../../Downloads/2. Front page format.pdf
+	../../../Downloads/2.pdf
+	../../../Downloads/20102024.png
+	../../../Downloads/20210917113104720860DLPBY6logopngdominosindiajflmoengage-removebg-preview (1).png
+	../../../Downloads/20210917113104720860DLPBY6logopngdominosindiajflmoengage-removebg-preview (2).png
+	../../../Downloads/20210917113104720860DLPBY6logopngdominosindiajflmoengage-removebg-preview.png
+	../../../Downloads/20210917113104720860DLPBY6logopngdominosindiajflmoengage.png
+	../../../Downloads/20241010_153210.jpg
+	../../../Downloads/20241011_091848.jpg
+	../../../Downloads/20241011_093508.jpg
+	../../../Downloads/20241011_103812-Photoroom.png
+	../../../Downloads/20241011_103812.jpg
+	../../../Downloads/20241011_105105-Photoroom.png
+	../../../Downloads/20241011_105105.jpg
+	../../../Downloads/20241011_115516.jpg
+	../../../Downloads/20241012_031157.jpg
+	../../../Downloads/2153_fireworks_composer.zip
+	../../../Downloads/22bc69ac-c07b-4294-a8a3-f80c5f2b3cbe-removebg-preview.png
+	../../../Downloads/22bc69ac-c07b-4294-a8a3-f80c5f2b3cbe.jpeg
+	../../../Downloads/24 mind-blowing facts about Warren Buffett and his $87 billion fortune.jpeg
+	../../../Downloads/243fbdadd5eea8695b898f66818aa9e1.jpg
+	../../../Downloads/26591846-0663-4b4d-9fe2-b2772402adb0.jpeg
+	../../../Downloads/26591846-0663-4b4d-9fe2-b2772402adb0.png
+	../../../Downloads/2712f486-d2e4-4b4d-9285-16d32317a516.jpeg
+	../../../Downloads/29_morning_Lab2_240282601027.pptx
+	../../../Downloads/2ND ONE.jpg
+	../../../Downloads/2a6dc38e-893e-4eff-84c3-ce53f70fc959.jpeg
+	../../../Downloads/2e0a63deb2f0f40ee7bac86854a81097.jpg
+	../../../Downloads/2nd yr 3rd sm exam fees.pdf
+	../../../Downloads/3-year financial projections overview (1).png
+	../../../Downloads/3-year financial projections overview.png
+	../../../Downloads/3-yearfinancialprojectionsoverview.jpeg
+	../../../Downloads/3. Bonafide and Viva Voce Sheets - Sample (1).pdf
+	../../../Downloads/3. Bonafide and Viva Voce Sheets - Sample.pdf
+	../../../Downloads/3.pdf
+	../../../Downloads/3006b2aa-988c-40df-ba33-fd0536b82a0a - Copy - Copy.jpeg
+	../../../Downloads/3006b2aa-988c-40df-ba33-fd0536b82a0a - Copy.jpeg
+	../../../Downloads/3006b2aa-988c-40df-ba33-fd0536b82a0a.jpeg
+	../../../Downloads/32020102024.jpg
+	../../../Downloads/32020102024.png
+	../../../Downloads/32420102024II.png
+	../../../Downloads/333246130018.pdf
+	../../../Downloads/39e8dccd-84a7-487e-87dc-41eab0022517.jpeg
+	../../../Downloads/3RD SLIDE BGROUND.jpg
+	../../../Downloads/3Untitled design.png
+	../../../Downloads/3b0c5e27e17571ffd2c69a2e877b516a.jpg
+	../../../Downloads/3cfacfc9-4cb5-4ba0-bce1-e327ad90f096.jpeg
+	"../../../Downloads/3d cartoon style minimal folder with fil\342\200\246.jpeg"
+	../../../Downloads/3f91d7a9-a53b-4193-8e0f-594c9163b301.jpeg
+	../../../Downloads/4 Tips to Building Bigger Biceps.jpeg
+	../../../Downloads/4.pdf
+	../../../Downloads/4099541_2727341_LoanApplicationForm (1).pdf
+	../../../Downloads/4099541_2727341_LoanApplicationForm.pdf
+	../../../Downloads/4099541_applicantPhotoFile.pdf
+	../../../Downloads/4099541_proofOfIncomeFile.pdf
+	../../../Downloads/41 Stories Of People Who Successfully Achieved Revenge By Ascending To Greatness.jpeg
+	../../../Downloads/456.png
+	../../../Downloads/4991059_2826645_LoanApplicationForm (1).pdf
+	../../../Downloads/4991059_2826645_LoanApplicationForm.pdf
+	../../../Downloads/4991059_applicantPhotoFile.jpg
+	../../../Downloads/4991059_marksheetFile (1).jpg
+	../../../Downloads/4991059_marksheetFile (2).jpg
+	../../../Downloads/4991059_marksheetFile.jpg
+	../../../Downloads/4991059_proofOfIncomeFile.jpg
+	../../../Downloads/4991059_proofOfIncomeFile.pdf
+	../../../Downloads/4991059_scheduleOfExpensesFile.jpg
+	../../../Downloads/4Untitled design.png
+	../../../Downloads/4b11ac15-0bdd-411d-898e-ec35402dedd6.png.png
+	../../../Downloads/4c62d53b34fb93d43b2cb2480d93f304-removebg-preview.png
+	../../../Downloads/4c62d53b34fb93d43b2cb2480d93f304.jpg
+	../../../Downloads/5.pdf
+	../../../Downloads/5.png
+	../../../Downloads/50 Of The Funniest Cars That People Have Stumbled Upon In The Streets And Just Had To Take Pics Of.jpeg
+	../../../Downloads/514a5255-cf0e-4592-9cd9-5e94f42fdbbf.jpeg
+	../../../Downloads/519e0f69-7a8a-4ea6-b46e-2578c39f5659.jpeg
+	../../../Downloads/5th sem fee receipt.pdf
+	../../../Downloads/6 Classic Drinks Named After Celebrities.jpeg
+	../../../Downloads/6923fc95-3e63-4178-baff-642e25a09cd1.jpeg
+	../../../Downloads/6ac80195-fa96-4332-87c5-0041d7018e25.jpeg
+	../../../Downloads/74bcae83-c066-42e3-8df3-2bdd7b9f532c.jpeg
+	../../../Downloads/75VWXKYPU4NBXORK.txt
+	../../../Downloads/7z2401.msi
+	../../../Downloads/8 LSN.png
+	../../../Downloads/83b58236-6b9e-49d0-83f8-717ebe4402d8.jpeg
+	../../../Downloads/84be05c7-9395-45f3-b82b-01770bb0f61e.jpeg
+	../../../Downloads/9 Books Billionaire Warren Buffett Thinks Everyone Should Read.jpeg
+	../../../Downloads/90d7f726-4b7b-4e07-b9dc-80f18514d9f4 - Copy - Copy.jpeg
+	../../../Downloads/90d7f726-4b7b-4e07-b9dc-80f18514d9f4 - Copy.jpeg
+	../../../Downloads/90d7f726-4b7b-4e07-b9dc-80f18514d9f4.jpeg
+	../../../Downloads/93.pdf
+	../../../Downloads/99% (1).png
+	../../../Downloads/99%.png
+	../../../Downloads/9b8ba950-89da-40ed-8db7-1008a2e8b2e0.jpeg
+	../../../Downloads/9cac9cebc44399ed66bfca84964c8bd2.jpg
+	../../../Downloads/9iI96uPUEiCIF1oUtqjm9M1aT2CbDbnXfjcOA==.pdf
+	../../../Downloads/A Look At The $200 Billion Net Worth Of The World's Richest Person Elon Musk.jpeg
+	../../../Downloads/A Young Man _ Bangladeshi Young Man _ PNG Image _ Background _ Man.jpeg
+	../../../Downloads/A-Broken-Heart.mp3
+	../../../Downloads/A-ROX HARDWARE MASTER DOCUMENT.pdf
+	../../../Downloads/A-ROX Proposal_20250924_100313_0000.pdf
+	../../../Downloads/A-ROX_tech_budget_plan.docx
+	../../../Downloads/A-ROX_tech_budget_plan.pdf
+	../../../Downloads/A-life-Full-of-love.mp3
+	../../../Downloads/A.docx
+	../../../Downloads/A20250407012442656 (1).pdf
+	../../../Downloads/A20250407012442656.pdf
+	../../../Downloads/A2B.png
+	../../../Downloads/AAFRIN_FIRDOUS.H__CSE_25-26_-removebg-preview.png
+	../../../Downloads/ABARNA.G__CSE_25-26_-removebg-preview.png
+	../../../Downloads/ABIRAMI._K__CSE_2025-2026_-removebg-preview.png
+	../../../Downloads/ABSTRACT AH.pdf (1).pdf
+	../../../Downloads/ABSTRACT AH.pdf (2).pdf
+	../../../Downloads/ABSTRACT AH.pdf.pdf
+	../../../Downloads/ABSTRACT.pdf
+	../../../Downloads/ABSTRACT_AH.pdf (1).pdf
+	../../../Downloads/ABSTRACT_AH.pdf (2).pdf
+	../../../Downloads/ABSTRACT_AH.pdf (3).pdf
+	../../../Downloads/ABSTRACT_AH.pdf (4).pdf
+	../../../Downloads/ABSTRACT_AH.pdf.pdf
+	../../../Downloads/AD  - 2.png
+	../../../Downloads/AD  - 3.png
+	../../../Downloads/AD - 1.png
+	../../../Downloads/AD - 2.png
+	../../../Downloads/AD - 21.png
+	../../../Downloads/AD - 22.png
+	../../../Downloads/AD - 23.png
+	../../../Downloads/AD - 24.png
+	../../../Downloads/AD - 25.png
+	../../../Downloads/AD - 26.png
+	../../../Downloads/AD - 27.png
+	../../../Downloads/AD - 7.png
+	../../../Downloads/AD1.png
+	../../../Downloads/AD2.png
+	../../../Downloads/AD3.png
+	../../../Downloads/AD4.png
+	../../../Downloads/AD5.png
+	../../../Downloads/AI Powered Full Stack Web Development Using Python V2.0.pdf
+	../../../Downloads/AI stuff to blow your mind.jpeg
+	../../../Downloads/AKALYA.S_CSE__2025-2026_-removebg-preview.png
+	../../../Downloads/ALTS Government Website .pdf
+	../../../Downloads/ALTS PROJECT SOURCE CODE (1).txt
+	../../../Downloads/ALTS PROJECT SOURCE CODE.txt
+	../../../Downloads/ALTS REPORT HURTS.docx
+	../../../Downloads/ALTS Source code/
+	../../../Downloads/ALTS _2R (1).pdf
+	../../../Downloads/ALTS _2R (1).pptx
+	../../../Downloads/ALTS _2R.pptx.pdf
+	../../../Downloads/ALTS _2R.pptx.pptx
+	../../../Downloads/ALTS-2 Bonafide 2.pdf
+	../../../Downloads/ALTS-2 table of contents  (1).pdf
+	../../../Downloads/ALTS-ConsumedBug-Fixed.zip
+	../../../Downloads/ALTS-ConsumedBug-Fixed/
+	../../../Downloads/ALTS-DOCUMENTATION.pdf.pdf
+	../../../Downloads/ALTS-DOCUMENTATION.pdf_20260427_112449_0000.pdf
+	../../../Downloads/ALTS.docx
+	../../../Downloads/ALTS.html
+	../../../Downloads/ALTS_1st page.pdf
+	../../../Downloads/ALTS_Abstract.pdf
+	../../../Downloads/ALTS_BONAFIDE CERTIFICATE.pdf
+	../../../Downloads/ALTS_CONTINUEREPORT.pdf
+	../../../Downloads/ALTS_CONTINUEREPORT_merged.pdf
+	../../../Downloads/ALTS_Chapter2_Expanded.pdf
+	../../../Downloads/ALTS_FRONTPAGE.pdf
+	../../../Downloads/ALTS_Full_Documentation (1).docx
+	../../../Downloads/ALTS_Full_Documentation (2).docx
+	../../../Downloads/ALTS_Full_Documentation (3).docx
+	../../../Downloads/ALTS_Full_Documentation.docx
+	../../../Downloads/ALTS_Full_Documentation.pdf
+	../../../Downloads/ALTS_IEEE_Paper.pdf
+	../../../Downloads/ALTS_IEEE_Paper_TwoColumn (1).pdf
+	../../../Downloads/ALTS_IEEE_Paper_TwoColumn.pdf
+	../../../Downloads/ALTS_NEW.pdf
+	../../../Downloads/ALTS_NEW_1ST.pdf
+	../../../Downloads/ALTS_NEW_merged.pdf
+	../../../Downloads/ALTS_Project_Documentation.docx
+	../../../Downloads/ALTS_REPORT.pdf
+	../../../Downloads/ALTS_TOC.docx
+	../../../Downloads/ALTS_Table of contents.pdf
+	../../../Downloads/AMIRTHA.S__CSE_25-26_-removebg-preview.png
+	../../../Downloads/ANAS BASHA & HARIHARAN/
+	../../../Downloads/ARAVIND._D_-_CSE__2025-2026_-removebg-preview.png
+	../../../Downloads/ARAVIND._J_-_CSE__2025-2026_-removebg-preview.png
+	../../../Downloads/AROX V1 PRINTER COMPARISION.docx (2).pdf
+	../../../Downloads/AROX_API_Documentation_v1.0 (3).pdf
+	../../../Downloads/AROX_V1_Cabinet_Material_Quotation_final.pdf.pdf
+	../../../Downloads/AROX_V1_Material_Quotation_Final.docx
+	../../../Downloads/AROX_V1_Material_Quotation_Updated.docx
+	../../../Downloads/AROX_V1_Material_Quotation_Updated.docx.pdf
+	../../../Downloads/AROX_V1_Material_Quotation_final.pdf.pdf
+	../../../Downloads/ARROW1.png
+	../../../Downloads/ARROW2.png
+	../../../Downloads/ARROW3.png
+	../../../Downloads/ARUNRAJ_J_-removebg-preview.png
+	../../../Downloads/Aadhar.pdf
+	../../../Downloads/Aalaporan-Thamizhan-MassTamilan.com.mp3
+	../../../Downloads/Aathadi-Aathadi.mp3
+	../../../Downloads/Aathadi-MassTamilan.org.mp3
+	../../../Downloads/Abinesh._S__CSE_25-26_-removebg-preview.png
+	../../../Downloads/Academic-Calendar-of-AY-2025-26-12.09.2025.pdf
+	../../../Downloads/Achchamillai.mp3
+	../../../Downloads/Adhaaru-Adhaaru.mp3
+	../../../Downloads/Adhithya.R__CSE__2025-2026_-removebg-preview.png
+	../../../Downloads/Adiye-Sakkarakatti-MassTamilan.com.mp3
+	../../../Downloads/AdminUsers.tsx
+	../../../Downloads/Admission_Proof.pdf
+	../../../Downloads/AdobeStock_324457181_Preview.ai
+	../../../Downloads/AdobeStock_768677558_Preview.jpeg
+	../../../Downloads/Aesthetic Bookshelf - Copy - Copy.jpeg
+	../../../Downloads/Aesthetic Bookshelf - Copy.jpeg
+	../../../Downloads/Aesthetic Bookshelf.jpeg
+	../../../Downloads/Ajith Kumar.jpeg
+	../../../Downloads/Ajith_A_CSE__2025-2026_-removebg-preview.png
+	../../../Downloads/Alcohol-Limitation-And-tracking-System-main - Copy.zip
+	../../../Downloads/Alcohol-Limitation-And-tracking-System-main-mongodb/
+	../../../Downloads/Alcohol-Limitation-And-tracking-System-main.zip
+	../../../Downloads/Alcohol-Limitation-And-tracking-System-main/
+	../../../Downloads/Anaconda3-2024.10-1-Windows-x86_64.exe
+	../../../Downloads/Anas Basha & Hari Haran Final Year Project-ALTS/
+	../../../Downloads/Andha-Kanna-Paathaakaa-MassTamilan.io.mp3
+	../../../Downloads/Ankit_Week-01.docx
+	../../../Downloads/Ankit_Week-01.pdf
+	../../../Downloads/Ankit_Week-02.pdf
+	../../../Downloads/Ankit_Week-03.pdf
+	../../../Downloads/Ankit_Week-04.pdf
+	../../../Downloads/Antigravity.exe
+	../../../Downloads/App Development Training_Report_Week-05.pdf
+	../../../Downloads/App_Development_Question_Paper-1.pdf
+	../../../Downloads/App_Development_Question_Paper-10.pdf
+	../../../Downloads/App_Development_Training_Report_Week-05 (1).pdf
+	../../../Downloads/App_Development_Training_Report_Week-05 (1).pdf.pdf
+	../../../Downloads/App_Development_Training_Report_Week-05 (1).pdf.zip
+	../../../Downloads/App_Development_Training_Report_Week-05 (2).pdf
+	../../../Downloads/App_Development_Training_Report_Week-05 (3).pdf
+	../../../Downloads/App_Development_Training_Report_Week-05 (4).pdf
+	../../../Downloads/App_Development_Training_Report_Week-05.docx
+	../../../Downloads/App_Development_Training_Report_Week-05.pdf
+	../../../Downloads/App_Development_Training_Report_Week-05.pdf (1).pdf
+	../../../Downloads/App_Development_Training_Report_Week-05.pdf (2).pdf
+	../../../Downloads/App_Development_Training_Report_Week-05.pdf (3).pdf
+	../../../Downloads/App_Development_Training_Report_Week-05.pdf.pdf
+	../../../Downloads/Arabu-Naade.mp3
+	../../../Downloads/Architecture desing.png
+	../../../Downloads/Architecture image inspiration on Designspiration.jpeg
+	../../../Downloads/Arjun Aadhith's Resume.pdf
+	../../../Downloads/Arjun_.S__CSE_25-26_-removebg-preview.png
+	../../../Downloads/Arjun_Aadhith._BS_-__CSE_25-26_-removebg-preview.png
+	../../../Downloads/Arjunar Villu.mp3
+	../../../Downloads/Arox_app_interface_smartphone_858f32bd3a.mp4
+	../../../Downloads/Arox_app_interface_smartphone_dea1873ab5.mp4
+	../../../Downloads/Arox_revolutionizing_smart_printing_8fb8870fb4.mp4
+	../../../Downloads/Artificial Intelligence AI Robotics Cute.jpg
+	../../../Downloads/Atm Machine 3d Illustration, Business, Finance, Money PNG Transparent Image and Clipart for Free Download.jpeg
+	../../../Downloads/Aval.mp3
+	../../../Downloads/Avala-Nambithan.mp3
+	../../../Downloads/B.Sc Project Guide Allocation (1).xlsx
+	../../../Downloads/B.Sc Project Guide Allocation.xlsx
+	../../../Downloads/BDA Lab Manual-1-12.pdf
+	../../../Downloads/BDA case_study.pdf
+	../../../Downloads/BDA case_study01.pdf
+	../../../Downloads/BIKE RIDER.png
+	../../../Downloads/BMW 1Untitled design.png
+	../../../Downloads/BMW Car edits _ Car editing _ phonk music car reels _ best cars edits _ Best phonk song edits.jpeg
+	../../../Downloads/BMW M2 F87.jpeg
+	../../../Downloads/BMW M4.jpeg
+	../../../Downloads/BMW M8 F92.jpeg
+	../../../Downloads/BMW.jpeg
+	../../../Downloads/BMW2Untitled design.png
+	../../../Downloads/BUGATTI.png
+	../../../Downloads/BUSHRA_M-removebg-preview.png
+	../../../Downloads/B_R Football (@brfootball) on X.jpeg
+	../../../Downloads/Bagulu-Odayum-Dagulu-Maari.mp3
+	../../../Downloads/Balle-Lakka.mp3
+	../../../Downloads/Bank+database_management_system.pdf
+	../../../Downloads/Bank_passbook_8914662_222776901J63TP0 (1).jpg
+	../../../Downloads/Bank_passbook_8914662_222776901J63TP0.jpg
+	../../../Downloads/Banken krijgen AI met ingebouwde compliance dankzij Google Workspace.jpeg
+	../../../Downloads/Banken_krijgen_AI_met_ingebouwde_compliance_dankzij_Google_Workspace-removebg-preview.png
+	../../../Downloads/Barack Obama.jpeg
+	"../../../Downloads/Base De Datos De Almacenamiento En Servidor De Internet Con Tecnolog\303\255a 25d PNG ,dibujos  Im\303\241genes Predise\303\261adas De Internet, 25d, Tecnolog\303\255a PNG y Vector para Descargar Gratis _ Pngtree.jpeg"
+	"../../../Downloads/Base_De_Datos_De_Almacenamiento_En_Servidor_De_Internet_Con_Tecnolog\303\255a_25d_PNG__dibujos__Im\303\241genes_Predise\303\261adas_De_Internet__25d__Tecnolog\303\255a_PNG_y_Vector_para_Descargar_Gratis___Pngtree-removebg-previe.png"
+	../../../Downloads/Beef Biryani.jpg
+	../../../Downloads/Best Picture For Passport Size Picture.jpeg
+	../../../Downloads/Bhuvaneshwari__CSE_page-0001-removebg-preview.png
+	"../../../Downloads/Bibliophile _ Book lover _ Book Readers _ Book\342\200\246 - Copy - Copy.jpeg"
+	"../../../Downloads/Bibliophile _ Book lover _ Book Readers _ Book\342\200\246 - Copy.jpeg"
+	"../../../Downloads/Bibliophile _ Book lover _ Book Readers _ Book\342\200\246.jpeg"
+	"../../../Downloads/Bill Gates abre caminho ao 'reinado' da Intelig\303\252ncia Artificial.jpeg"
+	../../../Downloads/Biriyani order-2.png
+	../../../Downloads/Biriyani.jpeg
+	../../../Downloads/Biryani Chicken Rice.jpg
+	../../../Downloads/Bittu-Padam-Di.mp3
+	../../../Downloads/Black and Blue Modern Logistic Presentation.pdf
+	../../../Downloads/Blockchain Based Secure Communication Protocol_20250421_210458_0000.pdf
+	../../../Downloads/Blockchain and AI supply chain Transparency Presentation_20250909_213537_0000.pdf
+	../../../Downloads/Blockchain.jpeg
+	../../../Downloads/Bmw-Lock-Screen.jpeg
+	../../../Downloads/Bmw2.jpg
+	../../../Downloads/Book - Copy - Copy.jpeg
+	../../../Downloads/Book - Copy.jpeg
+	../../../Downloads/Book 1.pdf
+	../../../Downloads/Book 5.xlsx
+	../../../Downloads/Book.jpeg
+	../../../Downloads/Book.xlsx
+	../../../Downloads/Bootcamp_-_Venture_Idea_development_Milestone_Sq_1_-_Ideathon_20260315 (1).pdf
+	../../../Downloads/Bootcamp_-_Venture_Idea_development_Milestone_Sq_1_-_Ideathon_20260315.pdf
+	../../../Downloads/Breakfast.jpg
+	../../../Downloads/Breaking Down the Costliest Cars of 2024.jpeg
+	../../../Downloads/BugSense-AI.pdf
+	../../../Downloads/BugSense-AI.pptx
+	../../../Downloads/Bugatti Chiron.jpeg
+	../../../Downloads/Bugatti Chironn.jpeg
+	../../../Downloads/Bugatti Chironnn.jpeg
+	../../../Downloads/Bugatti Sport in Abu Dhabi High Resolution Wall Art Perfect Gift for Any Exotic Car Enthusiasts Instant Download IN 5 PNG File Sizes - Etsy.jpeg
+	../../../Downloads/Build a Sales Relationship for Retention.jpeg
+	../../../Downloads/Bun Parotta.jpeg
+	"../../../Downloads/Business life _ men\342\200\231s fashion.jpeg"
+	../../../Downloads/Busy Xerox shop long queues.zip
+	../../../Downloads/Busy Xerox shop long queues/
+	../../../Downloads/Busy_xerox_shop_long_queues_14eafdc8fb.mp4
+	../../../Downloads/Buy School's in Session Sticker Set, School Supplies Haul Stickers, Upload Your Assignments Stickers, Star Student Stickers Online in India - Etsy.jpeg
+	../../../Downloads/Buy Telegram Members in USA.jpeg
+	../../../Downloads/CAD 3103_CYBER SECURITY_ MODULE IV _NOTES.docx
+	../../../Downloads/CAD 3103_CYBER SECURITY_ MODULE V _NOTES.docx
+	../../../Downloads/CAD 3103_CYBER SECURITY_ MODULE2_NOTES (1) (1).docx
+	../../../Downloads/CAD 3103_CYBER SECURITY_ MODULE2_NOTES (1).docx
+	../../../Downloads/CAD 3103_CYBER SECURITY_ MODULE3_NOTES.pdf
+	../../../Downloads/CAD 3104_MODULE IV_NOTES_FINAL (1).pdf
+	../../../Downloads/CAD2108 - Digital Marketing Module-I- Part-II.pdf
+	../../../Downloads/CAD2108- Digital Marketing Module-I.pdf
+	../../../Downloads/CAD2108- Digital Marketing Module-II.pdf
+	../../../Downloads/CAD3104_ CLOUD SERVICES _MODULE 3 NOTES_18_8_24 (1) (1).pdf
+	../../../Downloads/CHANGE_OF_ADDRESS (1).pdf
+	../../../Downloads/CHANGE_OF_ADDRESS.pdf
+	../../../Downloads/CICD deployment.jpg
+	../../../Downloads/CLEAR GOAL.png
+	../../../Downloads/CLOUD SERVICES 2MARKS.pdf
+	../../../Downloads/CLOUD SERVICES _MODULE1_NOTES.docx.pdf
+	../../../Downloads/CODE DIVISION WEEK-1 report.pdf
+	../../../Downloads/CONtentforALTS.pdf
+	../../../Downloads/CR7!!! (1).png
+	../../../Downloads/CR7!!!.png
+	../../../Downloads/CRISTIANO DADY & CRISTIANO JR TODAY.jpeg
+	../../../Downloads/CS3301-Data-Structures-Lecture-Notes-1-1-100kp (1).pdf
+	../../../Downloads/CS3301-Data-Structures-Lecture-Notes-1-1-100kp (2).pdf
+	../../../Downloads/CS3301-Data-Structures-Lecture-Notes-1-1-100kp (3).pdf
+	../../../Downloads/CS3301-Data-Structures-Lecture-Notes-1-1-100kp.pdf
+	../../../Downloads/CYBER SECURITY 16MARKS.pdf
+	../../../Downloads/Camp Nou always hosts an incredible show - Barcelona.jpeg
+	../../../Downloads/Camp Nou always hosts an incredible show - Barcelona.png
+	../../../Downloads/Cancel Cross Vector Hd Images, Cancel Cross Icon Isolated Over White Background, Symbol, Close, Wrong PNG Image For Free Download.jpeg
+	../../../Downloads/Canva Setup 1.117.1.exe
+	../../../Downloads/Canva Setup 1.123.1.exe
+	../../../Downloads/Car Wallpaper 4K HD Ultra.jpeg
+	../../../Downloads/Car.jpeg
+	../../../Downloads/Cart.png
+	../../../Downloads/Categories.png
+	../../../Downloads/Certificate Number.xlsx
+	../../../Downloads/Chase them_.jpeg
+	../../../Downloads/ChatGPT Image Apr 1, 2025, 12_47_13 AM.png
+	../../../Downloads/ChatGPT Image Apr 1, 2025, 12_47_15 AM.png
+	../../../Downloads/ChatGPT Image Apr 22, 2026, 08_39_39 PM.png
+	../../../Downloads/ChatGPT Image Feb 13, 2026, 02_20_39 PM.png
+	../../../Downloads/ChatGPT Image Feb 13, 2026, 03_59_48 PM.png
+	../../../Downloads/ChatGPT Image Feb 17, 2026, 12_40_40 AM.png
+	../../../Downloads/ChatGPT Image Feb 17, 2026, 12_41_05 AM.png
+	../../../Downloads/ChatGPT Image Feb 17, 2026, 12_41_55 AM.png
+	../../../Downloads/ChatGPT Image Feb 17, 2026, 12_46_40 AM.png
+	../../../Downloads/ChatGPT Image Feb 21, 2026, 08_58_17 PM.png
+	../../../Downloads/ChatGPT Image Feb 7, 2026, 05_17_24 PM.png
+	../../../Downloads/ChatGPT Image Feb 7, 2026, 05_20_21 PM.png
+	../../../Downloads/ChatGPT Image Feb 7, 2026, 05_23_11 PM.png
+	../../../Downloads/ChatGPT Image Jan 16, 2026, 10_04_52 PM.png
+	../../../Downloads/ChatGPT Image Jan 24, 2026, 07_46_41 PM.png
+	../../../Downloads/ChatGPT Image Jun 6, 2026, 09_15_41 AM.png
+	../../../Downloads/ChatGPT Image Mar 1, 2026, 10_43_17 AM.png
+	../../../Downloads/ChatGPT Image Mar 14, 2026, 08_44_57 PM.png
+	../../../Downloads/ChatGPT Image Mar 4, 2026, 01_30_38 AM.png
+	../../../Downloads/ChatGPT Image May 13, 2026, 03_20_28 PM.png
+	../../../Downloads/ChatGPT Image May 13, 2026, 03_26_57 PM.png
+	../../../Downloads/ChatGPT Image May 13, 2026, 03_32_33 PM.png
+	../../../Downloads/ChatGPT Image May 13, 2026, 03_46_00 PM.png
+	../../../Downloads/ChatGPT Image May 13, 2026, 03_57_00 PM.png
+	../../../Downloads/ChatGPT Image May 13, 2026, 08_06_10 PM.png
+	../../../Downloads/ChatGPT Image May 13, 2026, 08_22_54 PM.png
+	../../../Downloads/ChatGPT Image May 13, 2026, 08_35_06 PM.png
+	../../../Downloads/ChatGPT Image May 13, 2026, 08_46_44 PM.png
+	../../../Downloads/ChatGPT Image May 13, 2026, 09_32_42 PM.png
+	../../../Downloads/ChatGPT Image Oct 17, 2025, 02_13_08 PM.png
+	../../../Downloads/ChatGPT Image Sep 14, 2025, 02_33_55 PM.png
+	../../../Downloads/ChatGPT Image Sep 20, 2025, 03_03_56 PM.png
+	../../../Downloads/ChatGPT Image Sep 20, 2025, 07_03_35 PM.png
+	../../../Downloads/ChatGPT Image Sep 20, 2025, 07_44_21 PM.png
+	../../../Downloads/ChatGPT Image Sep 20, 2025, 07_56_01 PM.png
+	../../../Downloads/ChatGPT Image Sep 21, 2025, 03_29_20 PM.png
+	../../../Downloads/ChatGPT_Image_Sep_20__2025__07_56_01_PM-removebg-preview.png
+	../../../Downloads/Cheapest Handheld Scanner.jpeg
+	../../../Downloads/Chella-Kutti.mp3
+	../../../Downloads/Chicken Chettinad Curry.jpg
+	../../../Downloads/Chicken Invaders 4 PC Game for Free.zip
+	../../../Downloads/Chicken Invaders 4 PC Game for Free/
+	../../../Downloads/Chicken Kothu Parotta.jpeg
+	../../../Downloads/Chicken Masala Recipe.jpg
+	"../../../Downloads/Chicken _ Chicken Leg Piece _ Chicken Fry _ Leg Piece \360\237\215\227\360\237\215\227.jpeg"
+	../../../Downloads/Chicken.Invaders.4.zip
+	../../../Downloads/Chilli Parota.jpeg
+	../../../Downloads/Chilly Parotta.jpg
+	../../../Downloads/ChromeSetup (1).exe
+	../../../Downloads/Claude Setup.exe
+	"../../../Downloads/Cliente feliz_ A garota tem pacotes. Grande venda. ilustra\303\247\303\243o _ Vetor Premium"
+	../../../Downloads/Come-Closer-Sirikkadhey-Reprise.mp3
+	../../../Downloads/Come-on-Girls.mp3
+	../../../Downloads/Comparing Couchbase and MongoDB_ Insights on Features Performance and Scalability.jpeg
+	../../../Downloads/Complete_REST_API_Theoretical_Guide.pdf
+	../../../Downloads/Conference Preparation.pdf
+	../../../Downloads/Copy of Hari resume .pdf
+	../../../Downloads/Copy of How to Become a Full Stack Developer.pdf
+	../../../Downloads/Copy of PPT TEMPLATE (4).pddf.pdf
+	../../../Downloads/Copy of PPT TEMPLATE (4).pddf.pptx
+	../../../Downloads/Copy of PPT TEMPLATE (4).pptx
+	../../../Downloads/Copy of Phase-2 .pdf.pdf
+	../../../Downloads/Copy of SOFTWARE PROJECT STATUS REPORT.jpg
+	../../../Downloads/Copy of phase-3.pdf_20250515_192015_0000.pdf
+	../../../Downloads/Copy of phase-3.pdf_20250515_192402_0000.pdf
+	../../../Downloads/Cozy read - Copy - Copy.jpeg
+	../../../Downloads/Cozy read - Copy.jpeg
+	../../../Downloads/Cozy read.jpeg
+	../../../Downloads/Create your professional DP on LinkedIn today___How to use__1. Open Gemini _2. Upload Selfie (Front and Side Face)_3. Paste Prompt__Prompt Gemini__Ultra-realistic 8K cinematic front-facing portrait of a young man.____
+	../../../Downloads/CreditCardFraudDetection_Colab_NoDeployment (1) (1).ipynb
+	../../../Downloads/CreditCardFraudDetection_Colab_NoDeployment (1).ipynb
+	../../../Downloads/CreditCardFraudDetection_Corrected.ipynb
+	../../../Downloads/CreditCardFraudDetection_Phase3Style.ipynb
+	../../../Downloads/CreditCardFraudDetection_SampledFixed.ipynb
+	"../../../Downloads/Cristiano Ronaldo Hd wallpaper \360\237\246\201.jpeg"
+	../../../Downloads/Cristiano Ronaldo physical body.jpeg
+	../../../Downloads/Cristiano Ronaldo und sein Ferrari F12 TdF.jpeg
+	"../../../Downloads/Cristiano Ronaldo's \302\24318M supercar collection (2).jpeg"
+	"../../../Downloads/Cristiano Ronaldo's \302\24318M supercar collection (2).png"
+	"../../../Downloads/Cristiano Ronaldo's \302\24318M supercar collection.jpeg"
+	../../../Downloads/Cryptocurrency Funding_ Exploring Investment Opportunities in the Digital Frontier.jpeg
+	../../../Downloads/Cullinan.jpeg
+	../../../Downloads/Customer_collects_printed_documents_03bdfac779.mp4
+	../../../Downloads/Customer_collects_printed_documents_2dbd77c88a (1).mp4
+	../../../Downloads/Customer_collects_printed_documents_2dbd77c88a.mp4
+	../../../Downloads/DART_BASIC_PRACTICE _SHEET (1).pdf
+	../../../Downloads/DART_BASIC_PRACTICE _SHEET (2).pdf
+	../../../Downloads/DART_BASIC_PRACTICE _SHEET (3).pdf
+	../../../Downloads/DART_BASIC_PRACTICE _SHEET (4).pdf
+	../../../Downloads/DART_BASIC_PRACTICE _SHEET.pdf
+	../../../Downloads/DATA BASE PROJECT/
+	../../../Downloads/DATA VISUALIZATION_CAD3203_CAT1& CAT2 & END SEM THEORY.xlsx
+	../../../Downloads/DEEPAKRAJ.M_-CSE_2025-2026_-removebg-preview.png
+	../../../Downloads/DEMO RESUME.jpg
+	../../../Downloads/DEMO2RESUME.jpg
+	../../../Downloads/DEPLOY-HK.pem
+	../../../Downloads/DES GN 2 (2).png
+	../../../Downloads/DHANUSH_SRI_S_CSE_2025-2026_-removebg-preview.png
+	../../../Downloads/DHAYA._K__CSE_2025-2026_-removebg-preview.png
+	../../../Downloads/DNA problem statement (1).pdf
+	../../../Downloads/DNA problem statement.pdf
+	../../../Downloads/DNS 2011.jpeg
+	../../../Downloads/DPCO LAB RECORD_CSE_KVCET.pdf
+	../../../Downloads/DS-EBPL-HACKATHON QUESTION.pdf
+	../../../Downloads/DSC_0099[1] (1).png
+	../../../Downloads/DV.pdf
+	../../../Downloads/DV_Front_pages.pdf
+	../../../Downloads/DV_MODULE_1.pdf
+	../../../Downloads/DV_MODULE_2.pdf
+	../../../Downloads/DV_MODULE_3.pdf
+	../../../Downloads/DV_MODULE_5.pdf
+	../../../Downloads/DV_Module_4.pdf
+	../../../Downloads/DV_RECORD_watermark (2) (1).pdf
+	../../../Downloads/DV_RECORD_watermark (2) (2).pdf
+	../../../Downloads/DV_RECORD_watermark (2).pdf
+	../../../Downloads/Daavuya.mp3
+	../../../Downloads/Daily UI 019 - Leaderboard UI (1).jpeg
+	../../../Downloads/Daily UI 019 - Leaderboard UI.jpeg
+	../../../Downloads/Danga-Maari-Oodhari.mp3
+	../../../Downloads/Data Monitoring.pptx
+	../../../Downloads/Data_Visualization_Lab_Record - Google Docs.pdf
+	../../../Downloads/Data_Visualization_Lab_Record.docx
+	../../../Downloads/Data_Visualization_Lab_Record.pdf
+	../../../Downloads/Data_Visualization_QA.pdf
+	../../../Downloads/Dataset for testing (1).xlsx
+	../../../Downloads/Dataset for testing.xlsx
+	../../../Downloads/DeWatermark.ai_1751637209923.jpeg
+	../../../Downloads/Deadpool.jpeg
+	../../../Downloads/Declaration Form English.pdf
+	../../../Downloads/Deepa.V_CSE_2025-2026_-removebg-preview.png
+	../../../Downloads/Deepika.M_CSE_25-26_-removebg-preview.png
+	../../../Downloads/Demo-Bebas-Neue-Pro.zip
+	../../../Downloads/Demo1 (1).mp4
+	../../../Downloads/Demo1.mp4
+	../../../Downloads/Design Gallery _ Designhill.jpeg
+	../../../Downloads/Desktop - Shortcut.lnk
+	../../../Downloads/Detection (1).exe
+	../../../Downloads/Detection (2).exe
+	../../../Downloads/Detection.exe
+	../../../Downloads/Dharshini.S_CSE__25-26_-removebg-preview.png
+	../../../Downloads/Dheera-Dheera-MassTamilan.org.mp3
+	../../../Downloads/Dhivyabharathi._M_CSE_25-26__-removebg-preview.png
+	../../../Downloads/Digital factory monitoring dashboard in action.png
+	../../../Downloads/Digital-Stock-Market-and-Technology-Background.jpeg
+	../../../Downloads/Digitalfactorymonitoringdashboardinactio.jpeg
+	../../../Downloads/DirectX_11_Technology_Update_US.zip
+	../../../Downloads/DirectX_11_Technology_Update_US/
+	../../../Downloads/Doc1.docx
+	"../../../Downloads/DocScanner 28-Feb-2025 5-07\342\200\257pm.pdf"
+	../../../Downloads/Docker Desktop Installer.exe
+	../../../Downloads/Document (AutoRecovered).docx
+	../../../Downloads/DocumentReport (AutoRecovered).docx
+	../../../Downloads/Documents - Shortcut.lnk
+	../../../Downloads/Dodge Challenger Wallpaper_ Retro Aesthetic, Car Wallpaper, Pink Cityscape.jpeg
+	../../../Downloads/Dominos_Logo_PNG(1).png
+	../../../Downloads/Donald Trump will eigene Social-Media-Plattform starten - trend magazin.jpeg
+	"../../../Downloads/Donald Trump\342\200\231s Former Campaign Adviser Predicts He May Choose This Shocking Time to \342\200\230Turn Himself In'.jpeg"
+	../../../Downloads/Donu-Donu-Donu.mp3
+	../../../Downloads/Dosa.jpg
+	../../../Downloads/Download Free Vectors, Images, Photos & Videos _ Vecteezy.jpg
+	../../../Downloads/Download Fried chicken logo template, Suitable for restaurant and cafe logo for free.jpeg
+	../../../Downloads/Download free image of Building school architecture campus_ by chu_chutima about school buildings, university school exterior, university campus, background, and cartoon 12155690.jpg
+	../../../Downloads/Ds 2m.docx
+	../../../Downloads/Ds 2m.pdf
+	../../../Downloads/Dub-Theri-Step.mp3
+	../../../Downloads/EAD Module 3 DOC (1).docx
+	../../../Downloads/EAD Module 3 DOC.docx
+	../../../Downloads/EAD Module 4.docx
+	../../../Downloads/EAD-Module-3.pdf
+	../../../Downloads/EAadhaar_0000001035436920260128184902_29012026154436.pdf
+	../../../Downloads/EAadhaar_0000001035436920260128184902_29012026155552.pdf
+	../../../Downloads/EAadhaar_0000001373455620260129165152_3001202642556.pdf
+	../../../Downloads/EAadhaar_0000004864899420260325134223_27032026155019.pdf
+	../../../Downloads/EAadhaar_2192410060015520250106132607_14112025102620.pdf
+	../../../Downloads/EAadhaar_2192410060015520250106132607_1503202585516.pdf
+	../../../Downloads/EAadhaar_2192410060015520250106132607_1503202585733.pdf
+	../../../Downloads/EAadhaar_2726521109801320250411125916_19042025165224.pdf
+	../../../Downloads/EFW.png
+	../../../Downloads/ESS 3rd Unit.pdf
+	../../../Downloads/EVS 2nd Unit.pdf
+	../../../Downloads/EVS Unit -1.pdf
+	../../../Downloads/E_Krishnaprasath_ATS_Strict_OnePage.pdf_20260710_121436_0000.pdf
+	../../../Downloads/Eagle.jpeg
+	../../../Downloads/Early morning at railway station__.jpeg
+	../../../Downloads/Earn 500$ daily with our private trading bots.jpeg
+	../../../Downloads/Edhirthu-Nil.mp3
+	../../../Downloads/Eena-Meena-Teeka.mp3
+	../../../Downloads/Ella-Pugazhum-MassTamilan.fm.mp3
+	../../../Downloads/Elon Musk -- Billionaire Bachelor.jpeg
+	../../../Downloads/Elon Musk -- Billionaire Bachelor.png
+	../../../Downloads/Elon Musk Breaks Silence On Boeing's Crewed Mission & Starship Flight 5 Delay.jpeg
+	../../../Downloads/Elon Musk Facts_ The Man Who Could Change the World.jpeg
+	"../../../Downloads/Elon Musk afirma que \342\200\230X\342\200\231 tambi\303\251n ser\303\241 una app de citas.jpeg"
+	../../../Downloads/Emotion_dataset.ipynb
+	../../../Downloads/Employees.xlsx
+	../../../Downloads/En-Idhayam.mp3
+	../../../Downloads/En-Jeevan.mp3
+	../../../Downloads/Endhira-Logathu-Sundhariye-MassTamilan.com.mp3
+	../../../Downloads/Enhancing Machine Learning Interpretability Model using Explainable AI.pdf
+	../../../Downloads/Enna-Nadanthalum-MassTamilan.com.mp3
+	../../../Downloads/EpicInstaller-19.0.0-6c16f5fed76b4fc58b47045dc58f3c7b.msi
+	"../../../Downloads/Estudiar en el extranjero ilustraci\303\263n del concepto _ Vector Premium.jpeg"
+	../../../Downloads/Executive Notice (10-05-26).pdf
+	../../../Downloads/Executive Notice for Sparkh Academy.pdf
+	../../../Downloads/Expression.jpeg
+	../../../Downloads/F40.jpeg
+	../../../Downloads/FCGVHBJN.png
+	../../../Downloads/FERARI02.avif
+	../../../Downloads/FHT-DS-1 (1).pdf
+	../../../Downloads/FHT-DS-1 (2).pdf
+	../../../Downloads/FHT-DS-1 (3).pdf
+	../../../Downloads/FHT-DS-1 (4).pdf
+	../../../Downloads/FHT-DS-1.docx
+	../../../Downloads/FHT-DS-1.pdf
+	../../../Downloads/FINAL OF ALTS REPORT.pdf
+	../../../Downloads/FIT.png
+	../../../Downloads/FOGG PERFUME BINA GAD WALA FOGG BEST FOUGERE.jpeg
+	../../../Downloads/FORTUNER.png
+	../../../Downloads/FRIENDS (1).png
+	../../../Downloads/FRIENDS.png
+	../../../Downloads/FRONTpageOfALTS.pdf
+	"../../../Downloads/Facebook Founder Mark Zuckerberg Updates His Relationship Status to _Married_! (Because, Um, He Got Married\342\200\224In a Surprise Ceremony!).jpeg"
+	../../../Downloads/Factory Logo Vectors - Download Free High-Quality Vectors from Freepik _ Freepik.jpeg
+	../../../Downloads/Factory_Logo_Vectors_-_Download_Free_High-Quality_Vectors_from_Freepik___Freepik-removebg-preview.png
+	../../../Downloads/FastDomain_com.jpeg
+	../../../Downloads/Femto intern certificate.jpg
+	../../../Downloads/Ferrari Sf90.jpeg
+	../../../Downloads/FinalReport.pdf
+	"../../../Downloads/Finding Walt\342\200\246 - Copy - Copy.png"
+	"../../../Downloads/Finding Walt\342\200\246 - Copy.png"
+	"../../../Downloads/Finding Walt\342\200\246.jpeg"
+	"../../../Downloads/Finding Walt\342\200\246.png"
+	../../../Downloads/First Review ANASHARI & 0209.pptx (1).pdf
+	../../../Downloads/First Review ANASHARI & 0209.pptx.pdf
+	../../../Downloads/First Review ANASHARI & 0209.pptx_20260218_102423_0000.pdf
+	../../../Downloads/First-Sight.mp3
+	../../../Downloads/First_Review (1).pptx
+	../../../Downloads/First_Review.pptx
+	../../../Downloads/Five Blockchain Trends for You to Consider this Year.jpeg
+	../../../Downloads/Five_Blockchain_Trends_for_You_to_Consider_this_Year-removebg-preview.png
+	../../../Downloads/Fogg Men Spray Scent Oriental Extreme Perfume, Long-lasting-eau De Parfum, 100ml.jpeg
+	../../../Downloads/Fogg Perfume for men.jpeg
+	../../../Downloads/FolderMarkerPro.exe
+	../../../Downloads/Food Delivery App Template Ui Kit.jpeg
+	../../../Downloads/Forex Chart on Yacht (1).jpeg
+	../../../Downloads/Forex Chart on Yacht.jpeg
+	../../../Downloads/Form6_S22029O6N3006251200029.pdf.pdf
+	../../../Downloads/Form6_preview (1).pdf
+	../../../Downloads/Form6_preview (2).pdf
+	../../../Downloads/Form6_preview (3).pdf
+	../../../Downloads/Form6_preview (4).pdf
+	../../../Downloads/Form6_preview (5).pdf
+	../../../Downloads/Form6_preview.pdf
+	../../../Downloads/Fortuner.jpeg
+	../../../Downloads/Foto de cottonbro studio no Pexels.jpeg
+	../../../Downloads/Foto de cottonbro studio no Pexels.png
+	../../../Downloads/Four industry professionals in a factory.png
+	../../../Downloads/Fourindustryprofessionalsinafactor.jpeg
+	"../../../Downloads/Free Vector _ Queue\302\240concept illustration.jpeg"
+	../../../Downloads/Free_Vector___Queue_concept_illustration-removebg-preview.png
+	../../../Downloads/Fullstack Development (1).pdf
+	../../../Downloads/Fullstack Development.docx
+	../../../Downloads/Fullstack Development.pdf
+	"../../../Downloads/G63 AMG \360\237\226\244 _ \320\247\320\265\321\200\320\275\321\213\320\271 \320\264\320\266\320\270\320\277, \320\247\320\265\321\200\320\275\321\213\320\265 \320\260\320\262\321\202\320\276\320\274\320\276\320\261\320\270\320\273\320\270, \320\220\320\262\321\202\320\276\320\274\320\276\320\261\320\270\320\273\320\270 \320\274\320\265\321\207\321\202\321\213.jpeg"
+	../../../Downloads/GCD compute engine.png
+	../../../Downloads/GIF animations - JONES & CO.gif
+	../../../Downloads/GIT and GITHUB (1).pdf
+	../../../Downloads/GIT and GITHUB (2).pdf
+	../../../Downloads/GIT and GITHUB.pdf
+	../../../Downloads/GIT& GITHUB.pdf
+	../../../Downloads/GROWTH MINDSET SAMP 2.zip
+	../../../Downloads/GROWTH MINDSET SAMPLE.zip
+	../../../Downloads/GROWTH MINDSET.pdf
+	../../../Downloads/GUVHBJn.png
+	../../../Downloads/Gap Watch_ How schools treat students with physical disabilities vs_ emotional disabilities.jpeg
+	../../../Downloads/Gemini_Generated_Image_110ayk110ayk110a.png
+	../../../Downloads/Gemini_Generated_Image_56lxww56lxww56lx.png
+	../../../Downloads/Gemini_Generated_Image_5vgqp25vgqp25vgq.png
+	../../../Downloads/Gemini_Generated_Image_ck93c5ck93c5ck93.png
+	../../../Downloads/Gemini_Generated_Image_dlhcrydlhcrydlhc.png
+	../../../Downloads/Gemini_Generated_Image_ew7c2sew7c2sew7c.png
+	../../../Downloads/Gemini_Generated_Image_g0uqelg0uqelg0uq.png
+	../../../Downloads/Gemini_Generated_Image_jibw23jibw23jibw.png
+	../../../Downloads/Gemini_Generated_Image_ng1bevng1bevng1b.png
+	../../../Downloads/Gemini_Generated_Image_nz43g2nz43g2nz43.png
+	../../../Downloads/Gemini_Generated_Image_p86923p86923p869.png
+	../../../Downloads/Gemini_Generated_Image_qak2caqak2caqak2.png
+	../../../Downloads/Gemini_Generated_Image_sf7zf7sf7zf7sf7z.png
+	../../../Downloads/Gemini_Generated_Image_uiqq7guiqq7guiqq.png
+	../../../Downloads/Get 65% OFF.pdf
+	../../../Downloads/Get 65% OFF.png
+	../../../Downloads/Git-2.47.1.2-64-bit (1).exe
+	../../../Downloads/Git-2.47.1.2-64-bit.exe
+	../../../Downloads/Git-2.53.0.2-64-bit (1).exe
+	../../../Downloads/Git-2.53.0.2-64-bit.exe
+	../../../Downloads/Google Cloud Compute Engine.jpeg
+	../../../Downloads/Google expands cloud chip design efforts with veteran Intel hire.jpeg
+	../../../Downloads/GoogleService-Info.plist
+	../../../Downloads/Gpay.jpeg
+	../../../Downloads/Group 142.png
+	"../../../Downloads/Gt var\342\234\250\357\270\217 - Copy - Copy.jpeg"
+	"../../../Downloads/Gt var\342\234\250\357\270\217 - Copy.jpeg"
+	"../../../Downloads/Gt var\342\234\250\357\270\217.jpeg"
+	../../../Downloads/Guzide-Photoroom.png
+	"../../../Downloads/HARD WORK \360\237\222\252\360\237\217\275 https___t_co_NBxQI0TuL6.jpeg"
+	"../../../Downloads/HARD WORK \360\237\222\252\360\237\217\275 https___t_co_NBxQI0TuL6.png"
+	../../../Downloads/HARIHARAN V Aadhar.pdf
+	../../../Downloads/HARIHARAN-V-Participant-Certificate.pdf
+	../../../Downloads/HARIHARAN_IMG.jpg
+	../../../Downloads/HARINI_R__CSE_25-26_-removebg-preview.png
+	../../../Downloads/HARISHMA_-_Internship_Report.pdf.pdf
+	../../../Downloads/HEMANANDINI._K.K_-_CSE__25-26_-removebg-preview.png
+	../../../Downloads/HK detail/
+	../../../Downloads/HKrish25msexcel-2.xlsx
+	../../../Downloads/HNKgn.png
+	../../../Downloads/HTTP protocol components.mhtml
+	../../../Downloads/Hackathon Submission Template (Level-1-Solution).pdf
+	../../../Downloads/Happy-Birthday.mp3
+	../../../Downloads/Hari Krishnan's Resume (1).pdf
+	../../../Downloads/Hari Krishnan's Resume.pdf
+	../../../Downloads/Hari Krishnan's Resume.pdf_20260702_202523_0000.pdf
+	../../../Downloads/Hari Prasad - Resume_20250829_114452_0000.pdf
+	../../../Downloads/Hari-HK-Chennai.pem
+	../../../Downloads/Hari_Krishnan_V_Resume (1).pdf
+	../../../Downloads/Hari_Krishnan_V_Resume.pdf
+	../../../Downloads/Hariharan Resume (1).pdf
+	../../../Downloads/Hariharan V.pdf
+	../../../Downloads/Hariharan voterid card.pdf
+	../../../Downloads/Hariharan_Aadhar (1).pdf
+	../../../Downloads/Hariharan_Aadhar (2).pdf
+	../../../Downloads/Hariharan_Aadhar.pdf
+	../../../Downloads/Hariharan_aadharpdf (1).pdf
+	../../../Downloads/Hariharan_aadharpdf.pdf
+	../../../Downloads/Harini_Resume.pdf
+	../../../Downloads/Harry Potter Guide_ Yes, You DO Need To Read The Books - MediaMedusa_com.jpeg
+	../../../Downloads/Harshitha.P_CSE_25-26_-removebg-preview.png
+	../../../Downloads/He-is-My-Hero.mp3
+	../../../Downloads/Healthcare (1).ipynb
+	../../../Downloads/Healthcare.ipynb
+	../../../Downloads/Hello-World.zip
+	../../../Downloads/Hema Priya_Resume.pdf
+	../../../Downloads/Hemalatha.A__CSE__2025_-_2026_-removebg-preview.png
+	../../../Downloads/Here's One Thing Warren Buffett's Favorite Stocks All Have In Common.jpeg
+	../../../Downloads/Here's One Thing Warren Buffett's Favorite Stocks All Have In Common.png
+	../../../Downloads/High_school_students_interacting_stock_photo_containing_student_and_woman-removebg-preview.png
+	../../../Downloads/Hkrish-Week-03 (1).pdf
+	../../../Downloads/Hkrish-Week-03.pdf
+	../../../Downloads/Hkrish25MSword-1.docx
+	../../../Downloads/Hkrish25msexcel-1 (1).xlsx
+	../../../Downloads/Hkrish25msexcel-1 (2).xlsx
+	../../../Downloads/Hkrish25msexcel-1 (3).xlsx
+	../../../Downloads/Hkrish25msexcel-1 (4).xlsx
+	../../../Downloads/Hkrish25msexcel-1 (5).xlsx
+	../../../Downloads/Hkrish25msexcel-1.xlsx
+	../../../Downloads/Hkrish25msexcel-3 (1) (1).pdf
+	../../../Downloads/Hkrish25msexcel-3 (1) (2).pdf
+	../../../Downloads/Hkrish25msexcel-3 (1) (3).pdf
+	../../../Downloads/Hkrish25msexcel-3 (1).pdf
+	../../../Downloads/Hkrish25msexcel-3.pdf
+	../../../Downloads/Hkrish25msexcel2-1.pdf
+	../../../Downloads/Hkrish25msexcel2-1.xlsx
+	../../../Downloads/Hkrish25msppt1-1 (1).pptx
+	../../../Downloads/Hkrish25msppt1-1 (2).pptx
+	../../../Downloads/Hkrish25msppt1-1 (3).pptx
+	../../../Downloads/Hkrish25msppt1-1.pptx
+	../../../Downloads/How Mediation and Labor Arbitration Councils Work in Settlement of Labor Disputes_.jpeg
+	../../../Downloads/How Much Did Warren Buffett Earn As Newspaper Delivery Boy_.jpeg
+	../../../Downloads/How Much Did Warren Buffett Earn As Newspaper Delivery Boy_.png
+	../../../Downloads/How to Become a Full Stack Developer (1).pdf
+	../../../Downloads/How to Become a Full Stack Developer (2).pdf
+	../../../Downloads/How to Become a Full Stack Developer (3).pdf
+	../../../Downloads/How to Become a Full Stack Developer.pdf
+	"../../../Downloads/How to Build a Smooth Authentication Flow System with\302\240Firebase.jpeg"
+	../../../Downloads/How to Submit Your Internship Project (online-video-cutter.com).mp4
+	../../../Downloads/How_Mediation_and_Labor_Arbitration_Councils_Work_in_Settlement_of_Labor_Disputes_-removebg-preview.png
+	../../../Downloads/How_to_Build_a_Smooth_Authentication_Flow_System_with_Firebase-removebg-preview.png
+	../../../Downloads/Html DOC-1.pdf
+	../../../Downloads/Html DOC.pdf
+	../../../Downloads/IBGS_A_Wearable_Smart_System_to_Assist_Visually_Challenged.pdf
+	../../../Downloads/IDMAS - Abstract (1).pdf
+	../../../Downloads/IDMAS - Abstract.docx
+	../../../Downloads/IDMAS - Abstract.pdf
+	../../../Downloads/IDMAS - Industrial Data Monitoring & Analytics System.pdf
+	../../../Downloads/IDMAS final (1).pdf
+	../../../Downloads/IDMAS final.pdf
+	../../../Downloads/IDMAS wadh (1) (1).pptx
+	../../../Downloads/IDMAS wadh (1).pptx
+	../../../Downloads/IDMAS wadh.pptx
+	../../../Downloads/IDMAS.docx
+	../../../Downloads/IDMAS.pdf
+	../../../Downloads/IMG-20241002-WA0004 - Copy - Copy.jpg
+	../../../Downloads/IMG-20241002-WA0004 - Copy.jpg
+	../../../Downloads/IMG-20241002-WA0004.jpg
+	../../../Downloads/IMG-20260201-WA0029.jpg-removebg-preview.png
+	../../../Downloads/IMG-20260201-WA0029.jpg.jpeg
+	../../../Downloads/IMG_20230805_171456_11th marksheet.jpg
+	../../../Downloads/IMG_20230805_171547_12th marksheet.jpg
+	../../../Downloads/IMG_20241016_005238.jpg
+	../../../Downloads/IMG_20241016_005238.png
+	../../../Downloads/IMG_2025.jpg
+	../../../Downloads/IMG_20250705_185343.jpg
+	../../../Downloads/IMG_20251001_164913.jpg
+	../../../Downloads/IMG_20251026_023804.jpg
+	../../../Downloads/IMG_20251026_023834.jpg
+	../../../Downloads/IMG_20251026_023910.jpg
+	../../../Downloads/IMG_20251026_023930 (1).png
+	../../../Downloads/IMG_20251026_023930-removebg-preview.png
+	../../../Downloads/IMG_20251026_023930.jpg
+	../../../Downloads/IMG_20251026_023930.png
+	../../../Downloads/IMG_20251026_023951.jpg
+	../../../Downloads/IMG_20251112_162227_Bonafide certificate.jpg
+	../../../Downloads/IMG_20251114_115341_10th marksheet.jpg
+	../../../Downloads/IMG_20251114_140256_community certificate.jpg
+	../../../Downloads/IMG_20251114_140256_community certificate.jpg.jpeg
+	../../../Downloads/IMG_20260606_073956.jpg.jpeg
+	../../../Downloads/IMG_20260606_080447.jpg.jpeg
+	../../../Downloads/IMG_9743.MOV
+	../../../Downloads/IMG_9744.MOV
+	../../../Downloads/IMG_9758.MOV
+	../../../Downloads/IMG_9760.MOV
+	../../../Downloads/INT.png
+	../../../Downloads/INTERNSHIP REPORT FORMAT.docx
+	../../../Downloads/IOT-CALC.pdf
+	../../../Downloads/IRJET-V12I11113.pdf
+	../../../Downloads/IS-HK-project-1_20250214_182141_0000.pdf
+	../../../Downloads/IS-HK-project-2.pdf
+	../../../Downloads/Id_card.jpg
+	../../../Downloads/Idhayam.mp3
+	../../../Downloads/Idhayathai-Yedho-Ondru.mp3
+	../../../Downloads/Idhazhin-Oram.mp3
+	../../../Downloads/Impressive BMW M8, Sports Car Without Compromises.jpeg
+	"../../../Downloads/In this pin we can see tere is an super car best\342\200\246.jpeg"
+	../../../Downloads/Income_certificate.pdf
+	../../../Downloads/Index.tsx
+	../../../Downloads/Indru-Netru-Naalai.mp3
+	../../../Downloads/Industrial data monitoring setup.png
+	../../../Downloads/Industrialdatamonitoringsetu.jpeg
+	../../../Downloads/Intelligent_Event_Scheduling_Tracking_Solution.docx
+	../../../Downloads/Intelligent_Event_Scheduling_Tracking_Solution1 (1).pdf
+	../../../Downloads/Intelligent_Event_Scheduling_Tracking_Solution1.pdf
+	../../../Downloads/Inter.zip
+	../../../Downloads/Inter/
+	../../../Downloads/Invoice INV-0001-00000004.pdf
+	../../../Downloads/Invoice_2077100701 (1).pdf
+	../../../Downloads/Invoice_2077100701 (2).pdf
+	../../../Downloads/Invoice_2077100701 (3).pdf
+	../../../Downloads/Invoice_2077100701 (4).pdf
+	../../../Downloads/Invoice_2077100701 (5).pdf
+	../../../Downloads/Invoice_2077100701.pdf
+	../../../Downloads/Iphone 13 pro.jpeg
+	../../../Downloads/JAYAKANTH_G_-CSE_2025_-_2026_-removebg-preview.png
+	../../../Downloads/JEEVA. P - CSE (25-26)
+	../../../Downloads/JEEVA._P_-_CSE__25-26_-removebg-preview.png
+	../../../Downloads/JENKINS-HK.pem
+	../../../Downloads/Janani_M_-_CSE_2025-2026_-removebg-preview.png
+	../../../Downloads/Jane Martyn - Copy - Copy.jpeg
+	../../../Downloads/Jane Martyn - Copy.jpeg
+	../../../Downloads/Jane Martyn.jpeg
+	../../../Downloads/Jayamoorthy_-removebg-preview.png
+	../../../Downloads/Jeeva._V_-_CSE_2022-2026__-removebg-preview.png
+	../../../Downloads/Jeevanandham  resume .pdf (1).pdf
+	../../../Downloads/Jeevanandham  resume .pdf.pdf
+	../../../Downloads/Jitthu-Jiladi.mp3
+	../../../Downloads/Jothika.P__Cse_25-26_-removebg-preview.png
+	../../../Downloads/KARTHIKEYAN.S_-CSE__2025-2026_-removebg-preview.png
+	../../../Downloads/KATHIRAVAN.D_-_CSE__2025_-_2026_-removebg-preview.png
+	../../../Downloads/KAVIYA._K_CSE__2025-2025_-removebg-preview.png
+	../../../Downloads/KEY-HK-REPO-main.zip
+	../../../Downloads/KOWSHIK.S.P_-_CSE__2025-26_-removebg-preview.png
+	../../../Downloads/KP Chakma Boy in 2022 _ Blur photography, Photo art gallery, Cute love couple images - Copy - Copy.jpeg
+	../../../Downloads/KP Chakma Boy in 2022 _ Blur photography, Photo art gallery, Cute love couple images - Copy.jpeg
+	../../../Downloads/KP Chakma Boy in 2022 _ Blur photography, Photo art gallery, Cute love couple images.jpeg
+	../../../Downloads/KVCET_CSE_Hostel_Leave_Permission_Form.docx
+	../../../Downloads/KVCET_CSE_Hostel_Leave_Permission_Form.pdf
+	../../../Downloads/Kaali-Kaali-MassTamilan.org.mp3
+	../../../Downloads/Kaartech 'Project Management&coordinator' Resume.pdf
+	../../../Downloads/Kadhal-Cricket.mp3
+	../../../Downloads/Kadhal-Oru-Vizhiyil-MassTamilan.org.mp3
+	../../../Downloads/Kadhal-Vandhale.mp3
+	../../../Downloads/Kadhalaada-Kadhal-Aada-MassTamilan.com.mp3
+	../../../Downloads/Kadhale-Kadhale.mp3
+	../../../Downloads/Kalaiselvan_S___CSE__25-26_-removebg-preview.png
+	../../../Downloads/Kalaivani.M_cse_25-26_-removebg-preview.png
+	../../../Downloads/Kamali_P_Resume_Updated (1).docx
+	../../../Downloads/Kamali_P_Resume_Updated (1).pdf
+	../../../Downloads/Kannala-Kannala.mp3
+	../../../Downloads/Kannazhaga.mp3
+	../../../Downloads/Kannukkulle.mp3
+	../../../Downloads/Karthikeyan A (CSE_25-26).jpg
+	../../../Downloads/Karthikeyan_A__CSE_25-26_-removebg-preview.png
+	../../../Downloads/Karuppu-Perazhaga.mp3
+	../../../Downloads/Karuvinil-Enai-MassTamilan.org.mp3
+	"../../../Downloads/Katy Perry cuts a glamorous figure at\302\240American Idol event in LA.jpeg"
+	../../../Downloads/Kelamal-Kaiyil-MassTamilan.fm.mp3
+	../../../Downloads/Kerala-Song-MassTamilan.org.mp3
+	"../../../Downloads/King \360\237\221\221.jpeg"
+	../../../Downloads/Kodiyavanin-Kathaya.mp3
+	../../../Downloads/Kondattam.mp3
+	../../../Downloads/Krishnaprasath_ModernClean.pdf (1).pdf
+	../../../Downloads/Krishnaprasath_ModernClean.pdf.pdf
+	../../../Downloads/LADYn.png
+	../../../Downloads/LAMBOntitled design.png
+	../../../Downloads/LOGO (2).png
+	../../../Downloads/LOGO FOR RECRUITMENT COMPANY - LJUSA hans.jpeg
+	../../../Downloads/LOGO.png
+	../../../Downloads/LRT Assignment II (1).pdf
+	../../../Downloads/LRT Assignment II (2).pdf
+	../../../Downloads/LRT Assignment II.pdf
+	../../../Downloads/LRT Assignment-I (1).pdf
+	../../../Downloads/LRT Assignment-I.pdf
+	../../../Downloads/LRT Module III Notes (1).pdf
+	../../../Downloads/LRT Module III Notes.pdf
+	../../../Downloads/LTR Module IV Notes.pdf
+	../../../Downloads/Lamborghini.jpeg
+	../../../Downloads/Landing in Dubai.jpeg
+	../../../Downloads/Las Mejores Aplicaciones para Mantener el Contacto con Tus Seres Queridos en Cuba.jpeg
+	../../../Downloads/Lavanya.I_CSE_25-26_-removebg-preview.png
+	../../../Downloads/Leiame.txt
+	../../../Downloads/Linphone-5.2.6-win64.exe
+	"../../../Downloads/Listening to music and reading to escape reality \360\237\216\247\360\237\223\235 - Copy - Copy.jpeg"
+	"../../../Downloads/Listening to music and reading to escape reality \360\237\216\247\360\237\223\235 - Copy.jpeg"
+	"../../../Downloads/Listening to music and reading to escape reality \360\237\216\247\360\237\223\235.jpeg"
+	"../../../Downloads/Live Blog_ Telegram CEO\342\200\231s Arrest in Paris, Mysteries, Rumors, and Everything in Between.jpeg"
+	../../../Downloads/Logical-Reasoning_CAT_Ques_Paper (1).pdf
+	../../../Downloads/Logical-Reasoning_CAT_Ques_Paper.pdf
+	../../../Downloads/Logo Design - Rubaiya Zahin.jpeg
+	../../../Downloads/M1L1_lyst4862.pdf
+	../../../Downloads/M2L1_lyst5236.pdf
+	../../../Downloads/M2L3_lyst2319.txt
+	../../../Downloads/M2L5_lyst7473.txt
+	../../../Downloads/M2L6 commands.txt
+	../../../Downloads/M2L6_lyst8090.txt
+	../../../Downloads/M2L7_lyst6816.txt
+	../../../Downloads/M3L4_lyst5592.txt
+	../../../Downloads/M4L1_lyst1713295809268.pdf
+	../../../Downloads/M4L2_lyst1713295620251.pdf
+	../../../Downloads/M4L3_lyst1713295716174.txt
+	../../../Downloads/M5L1_lyst1713295792049.txt
+	../../../Downloads/M5L2_lyst1713295857289.txt
+	../../../Downloads/M5L3_lyst1713362245328.txt
+	../../../Downloads/M6L1_lyst1713804680117.txt
+	../../../Downloads/M6L2_lyst1713945001529 (1).txt
+	../../../Downloads/M6L2_lyst1713945001529.txt
+	../../../Downloads/M6L5_lyst1713945109462.txt
+	../../../Downloads/MADHUMITHA._T__CSE_2025-2026_-removebg-preview.png
+	../../../Downloads/MAIN IMG.jpeg
+	../../../Downloads/MCA ONLINE CERTIFICATE (1).xlsx
+	../../../Downloads/MINI PROJECT REPORT-UG (1).docx
+	../../../Downloads/MODI.png
+	../../../Downloads/MODULE 2_ CLOUD SERVICES.docx.pdf
+	../../../Downloads/MOUNTAIN (1).png
+	../../../Downloads/MOUNTAIN.png
+	../../../Downloads/MS Dhoni IPL.jpeg
+	../../../Downloads/MSB.exe
+	../../../Downloads/M_Bhuvana1-removebg-preview.png
+	../../../Downloads/Maacho-Ennacho-MassTamilan.com.mp3
+	../../../Downloads/Maari-Thara-Local.mp3
+	../../../Downloads/Maattikkichey-Maattikkichey-MassTamilan.com.mp3
+	../../../Downloads/Machi-Engalukku-Ellam-MassTamilan.com.mp3
+	../../../Downloads/Machi-Open-The-Bottle.mp3
+	../../../Downloads/Maduraikku-MassTamilan.fm.mp3
+	"../../../Downloads/Mafia Boss _ Dark _ Moody _ Noir _ Peaky Blinders _ Luxury _ men\342\200\231s Aesthetic _ Old Money.jpeg"
+	../../../Downloads/Mafia Meeting in Russia.jpeg
+	../../../Downloads/Mangalorean Prawn Chilli Fry _ Deliciously Indian.jpeg
+	../../../Downloads/Mankatha-Theme-Music.mp3
+	../../../Downloads/Mascara-Pottu.mp3
+	../../../Downloads/Mazhai-Vara-Pogudhe.mp3
+	../../../Downloads/Med-Care Healthcare Solutions Landing Page.jpg
+	../../../Downloads/MediaGet_id3952260ids1s.exe
+	../../../Downloads/Medicine doctor with stethoscope in hand on hospital background medical technology healthcare and medical concept _ Premium Photo (1).jpg
+	../../../Downloads/Medicine doctor with stethoscope in hand on hospital background medical technology healthcare and medical concept _ Premium Photo.jpg
+	../../../Downloads/Medicine doctor with stethoscope in hand on hospital background medical technology healthcare and medical concept _ Premium Photo.png
+	../../../Downloads/Medu vada.jpg
+	../../../Downloads/Meesa-Beauty.mp3
+	../../../Downloads/Meesaya-Murukku-MassTamilan.com.mp3
+	../../../Downloads/Mercedes AMG GT.jpeg
+	"../../../Downloads/Mercedes-AMG GTR PRO \360\237\246\207 Rate it 1-10\342\200\246.jpeg"
+	../../../Downloads/Mersal-Arasan-MassTamilan.com.mp3
+	../../../Downloads/Mission-To-Sydney.mp3
+	../../../Downloads/MobaXterm_Portable_v25.0.zip
+	../../../Downloads/MobaXterm_Portable_v25.0/
+	../../../Downloads/Moda-Moda.mp3
+	../../../Downloads/Money inspo.jpeg
+	../../../Downloads/Monogram HK Logo Design By Vectorseller _ TheHungryJPEG.jpeg
+	../../../Downloads/Montserrat,Open_Sans,Poppins.zip
+	../../../Downloads/Montserrat,Open_Sans,Poppins/
+	../../../Downloads/Montserrat,Poppins.zip
+	../../../Downloads/Montserrat.zip
+	../../../Downloads/Motta-Paiya.mp3
+	../../../Downloads/Movie_App_Fonts_Package.zip
+	../../../Downloads/Movie_App_Fonts_Package/
+	../../../Downloads/Movies/
+	../../../Downloads/Moviesda.Mobi - HIT - The First Case 2020 Original 1080p HD.mp4
+	../../../Downloads/Moviesda.Mobi - HIT - The Second Case 2024 Original 1080p HD.mp4
+	../../../Downloads/Moviesda.Mobi - Hit 3 The Third Case 2025 Original 1080p HD.mp4
+	../../../Downloads/Moviesda.Mobi - Lucky Baskhar 2024 Original 1080p HD (1).htm
+	../../../Downloads/Moviesda.Mobi - Lucky Baskhar 2024 Original 1080p HD (2).htm
+	../../../Downloads/Moviesda.Mobi - Lucky Baskhar 2024 Original 1080p HD.htm
+	../../../Downloads/Moviesda.Mobi_-_Aaromaley_2025_Original_1080p_HD.mp4
+	../../../Downloads/Moviesda.Mobi_-_DD_Next_Level_2025_Original_1080p_HD.mp4
+	../../../Downloads/Moviesda.Mobi_-_Mr_House_Keeping_2025_Original_720p_HD.mp4
+	../../../Downloads/Moviesda.Mobi_-_Tourist_Family_2025_Original_1080p_HD.mp4
+	../../../Downloads/Mun-Sellada.mp3
+	../../../Downloads/Mutton bhuna.jpeg
+	../../../Downloads/Mutton_bhuna-removebg-preview.png
+	../../../Downloads/My Computer (1).jpeg
+	../../../Downloads/My Computer.jpeg
+	../../../Downloads/My Favorite Place.jpeg
+	../../../Downloads/My-Name-is-Billa-MassTamilan.fm.mp3
+	"../../../Downloads/NYC \357\274\215 Brooklyn - Copy - Copy.jpeg"
+	"../../../Downloads/NYC \357\274\215 Brooklyn - Copy.jpeg"
+	"../../../Downloads/NYC \357\274\215 Brooklyn.jpeg"
+	../../../Downloads/Naakka Mukka.mp3
+	../../../Downloads/Naan-Meendum-MassTamilan.fm.mp3
+	../../../Downloads/Naane-Indhiran.mp3
+	../../../Downloads/Nahnh-Na-Nah.mp3
+	../../../Downloads/Nanbane.mp3
+	../../../Downloads/Nanbanukku-Koila-Kattu-MassTamilan.org.mp3
+	../../../Downloads/Nature has been in existence long before humans and ever sin.pdf
+	../../../Downloads/Nearby teller machines map interface.png
+	../../../Downloads/Nee-Naan.mp3
+	../../../Downloads/Nee-Partha.mp3
+	../../../Downloads/NeedForSpeedMostWantedBlackEdition.zip
+	../../../Downloads/NeedForSpeedMostWantedBlackEdition/
+	../../../Downloads/Neethanae-Neethane-MassTamilan.com.mp3
+	../../../Downloads/New Basic Project/
+	../../../Downloads/New Sparkh Logo_20260412_233444_0000.png
+	../../../Downloads/New folder/
+	../../../Downloads/Nimirnthu-Nil.mp3
+	../../../Downloads/Niral_Thiruvizha_Project_Explanation.pdf
+	../../../Downloads/No.Escape.English-WWW.MY-SUBS.CO.srt
+	../../../Downloads/Norah - An AI-Powered Personal Home Nurse & Safety Companion (1).pdf
+	../../../Downloads/Norah - An AI-Powered Personal Home Nurse & Safety Companion (2).pdf
+	../../../Downloads/Norah - An AI-Powered Personal Home Nurse & Safety Companion.pdf
+	../../../Downloads/Notes App Demo 2026-05-26 101128.mp4
+	../../../Downloads/O-Sone-Sone.mp3
+	../../../Downloads/OfficeSetup.exe
+	../../../Downloads/OracleXE213_Win64.zip
+	../../../Downloads/OracleXE213_Win64/
+	../../../Downloads/Oru-Sattai-Oru-Balpam-MassTamilan.org.mp3
+	../../../Downloads/P.Dharshini_CSE_-removebg-preview.png
+	../../../Downloads/PCGameBenchmark_Detector (1).exe
+	../../../Downloads/PCGameBenchmark_Detector.exe
+	../../../Downloads/PER-BUK-LIST-main.zip
+	../../../Downloads/PROJECT-20250324T190254Z-001.zip
+	../../../Downloads/PSH303 Sarah - An Ai-Powered personal Home Nurse & Safety Companion.pdf
+	../../../Downloads/PYBOM230650054773.pdf
+	../../../Downloads/Paneer Tikka_ gravy.jpg
+	../../../Downloads/Passport_Size_Photograph_14300002_96596493E3H4X7.jpg
+	../../../Downloads/Pasted text.txt
+	../../../Downloads/Pave your own journey (view the link on profile).jpeg
+	../../../Downloads/People suffering from problems _ Premium Vector.jpeg
+	../../../Downloads/Phase-1 .pdf (1).pdf
+	../../../Downloads/Phase-1 .pdf.pdf
+	../../../Downloads/Phase-2 for DS.docx.pdf
+	../../../Downloads/Photo by Danya  Gutan on Pexels - Copy - Copy.jpeg
+	../../../Downloads/Photo by Danya  Gutan on Pexels - Copy.jpeg
+	../../../Downloads/Photo by Danya  Gutan on Pexels.jpeg
+	../../../Downloads/Photo by Pixabay on Pexels.jpeg
+	../../../Downloads/Photo by Pixabay on Pexels.png
+	../../../Downloads/Pickyourtrail  - Registration Open for 2026 batch.pdf
+	../../../Downloads/Picsart_24-09-25_16-33-32-308.png
+	../../../Downloads/Picsart_24-09-28_12-12-20-664.jpg
+	../../../Downloads/Picsart_24-10-02_00-11-34-947 (1) - Copy - Copy.png
+	../../../Downloads/Picsart_24-10-02_00-11-34-947 (1) - Copy.png
+	../../../Downloads/Picsart_24-10-02_00-11-34-947 (1).png
+	../../../Downloads/Picsart_24-10-02_00-11-34-947.png
+	../../../Downloads/Picsart_24-10-08_00-08-52-457.png
+	../../../Downloads/Picsart_24-10-08_00-09-18-455.png
+	../../../Downloads/Picsart_24-10-08_00-12-35-972.png
+	../../../Downloads/Picsart_24-10-08_00-12-50-906.png
+	../../../Downloads/Picsart_24-10-08_00-13-42-250.png
+	../../../Downloads/Picsart_24-10-08_00-13-59-703.png
+	../../../Downloads/Picsart_24-10-18_16-30-05-416.png
+	../../../Downloads/Picsart_24-10-18_16-31-06-134.png
+	"../../../Downloads/Pin by Carnival on Joker (Heath Ledger) _ Joker\342\200\246.jpeg"
+	"../../../Downloads/Pin by Carnival on Joker (Heath Ledger) _ Joker\342\200\246.png"
+	../../../Downloads/Pizza.png
+	../../../Downloads/Poi-Vazhva.mp3
+	../../../Downloads/Poler.jpeg
+	../../../Downloads/Ponmagal-Vandaal-MassTamilan.fm.mp3
+	../../../Downloads/Poo-Nee-Poo.mp3
+	../../../Downloads/Porsche 911 Canyon Drive.jpg
+	../../../Downloads/Postman (x64).exe
+	../../../Downloads/Powerful Uusam-Elzing.png
+	../../../Downloads/Premium Photo _ Stock market or forex trading graph in graphic concept.jpeg
+	../../../Downloads/Premium Photo _ Wolf logo.jpeg
+	../../../Downloads/Premium Vector _ A black wolf head with a white background_.jpeg
+	../../../Downloads/Premium Vector _ Chicken icon logo vector design template.jpeg
+	../../../Downloads/Prime Video for Windows Installer.exe
+	../../../Downloads/Private jet _ Louis Vuitton _ rich.jpeg
+	../../../Downloads/Profile.pdf
+	../../../Downloads/Prog PS.pdf
+	../../../Downloads/Project Final Document (1).pdf
+	../../../Downloads/Project Final Document.pdf
+	../../../Downloads/Puriyavillai.mp3
+	../../../Downloads/Python -20250324T092543Z-001.zip
+	../../../Downloads/Python Project (1).docx
+	../../../Downloads/Python Project (2).docx
+	../../../Downloads/Python Project.docx
+	../../../Downloads/Python uses.jpeg
+	../../../Downloads/Python_HariK_USC_UCT (1).pdf.pdf
+	../../../Downloads/RFID CARD READER.jpeg
+	../../../Downloads/RFID CARD.jpeg
+	../../../Downloads/Raajali-Nee-Gaali-MassTamilan.com.mp3
+	../../../Downloads/Raangu.mp3
+	../../../Downloads/Raftr - Invest in Yourself_ Announcing Warren Buffett.jpeg
+	../../../Downloads/Ratan Tata.jpeg
+	../../../Downloads/Ration card doc.pdf
+	../../../Downloads/Reading a book City - Copy - Copy.jpeg
+	../../../Downloads/Reading a book City - Copy.jpeg
+	../../../Downloads/Reading a book City.jpeg
+	../../../Downloads/Receipt INV-0001-00000001.pdf
+	../../../Downloads/Receipt INV-0001-00000002.pdf
+	../../../Downloads/Receipt INV-0001-00000003.pdf
+	../../../Downloads/Recording 2025-02-25 182358.mp4
+	../../../Downloads/Recording 2025-02-25 222152.mp4
+	../../../Downloads/Recording 2025-02-25 225123.mp4
+	../../../Downloads/Red onion.jpeg
+	../../../Downloads/RedStore_Img.zip
+	../../../Downloads/Remo-Nee-Kadhalan.mp3
+	../../../Downloads/Resident Evil 4.iso
+	../../../Downloads/Restuarant.png
+	../../../Downloads/Resume GEN.pdf
+	../../../Downloads/Rihanna.jpeg
+	../../../Downloads/Roarrrrrrrrrrrr.jpeg
+	../../../Downloads/Robert Downey Jr.jpeg
+	../../../Downloads/Robert Downey Jr_ being interviewed by the media after winning the Golden Globe Award for Best Actor for _Sherlock Holmes,_ 2010_.jpeg
+	../../../Downloads/Roja-Kadale.mp3
+	../../../Downloads/Rolls Royce_ The Ultimate Luxury Car Experience.jpeg
+	"../../../Downloads/Ronaldo \342\200\230buys $10_5m Bugatti Centodieci\342\200\231 - with just 10 models ever created.jpeg"
+	"../../../Downloads/Ronaldo's Man United salary meant he paid off \302\24318m car collection in less than 48 hrs.jpeg"
+	../../../Downloads/Ronaldo.jpeg
+	../../../Downloads/RoomsOutdoor _.jpeg
+	../../../Downloads/Rowdy-Baby-MassTamilan.org.mp3
+	../../../Downloads/S22_EROLLPIC_29_S22029O6N3006251200004_be2b9fd8-72d2-4c6d-8b73-d256eaa78767_hk_passpor.jpg
+	../../../Downloads/S3-Vetta-Theme-Music.mp3
+	../../../Downloads/SARAH WEB DESIGN.pdf
+	../../../Downloads/SARAH_Dashboard_Mobile_View.pdf
+	../../../Downloads/SAVE_20241012_132511.png
+	../../../Downloads/SAVE_20260104_140902.jpg.jpeg
+	../../../Downloads/SAVE_20260723_211020.jpg.jpeg
+	../../../Downloads/SB Collect.pdf
+	../../../Downloads/SID1743 - Idea Presentation_20240829_102334_0000 (1).pdf
+	../../../Downloads/SID1743 - Idea Presentation_20240829_102334_0000.pdf
+	../../../Downloads/SOFTWARE PROJECT DEADLINE & WEEKLY PROGRESS REPORT.pdf
+	../../../Downloads/SOFTWARE PROJECT STATUS REPORT.pdf
+	../../../Downloads/SOP-PROJECT-CA-DEPT-BSACIST (1).pdf
+	../../../Downloads/SPARKH ACADEMY FCE.pdf
+	"../../../Downloads/SPARKH ACADEMY \342\200\223 FOUNDATION COMPETENCY EXAMINATION (FCE).pdf"
+	../../../Downloads/SPARKH_FCE_AnswerKey.pdf
+	../../../Downloads/SPARKH_FCE_AnswerKey.pdf.pdf
+	../../../Downloads/SPARKH_FCE_QuestionPaper.docx
+	../../../Downloads/SPARKH_FCE_QuestionPaper.pdf
+	../../../Downloads/SPARKH_FCE_QuestionPaper.pdf.pdf
+	../../../Downloads/SQLITE/
+	../../../Downloads/SQL_Complete_Learning_Guide.docx
+	../../../Downloads/SUBDL__no-one-will-save-you-norwegian-3177311.zip
+	../../../Downloads/SWIFT.png
+	../../../Downloads/Saffer School Logo Design.png
+	../../../Downloads/Saitji-Saitji-MassTamilan.com.mp3
+	../../../Downloads/Sample_InternshipReport_USC_UCT (1).docx
+	../../../Downloads/Sample_InternshipReport_USC_UCT (1).pdf
+	../../../Downloads/Sandi-Muni.mp3
+	../../../Downloads/Sangili-Bungili.mp3
+	../../../Downloads/Scene_2__customer_sending_print_via_whatsapp_manua_61b4888db0.mp4
+	../../../Downloads/School App.jpeg
+	../../../Downloads/Screenshot 2023-10-30 184942.png
+	../../../Downloads/Screenshot 2024-09-29 025008.png
+	../../../Downloads/Screenshot 2024-09-29 032429.png
+	../../../Downloads/Screenshot 2024-10-03 002652-Photoroom (1) (1).png
+	../../../Downloads/Screenshot 2024-10-03 002652-Photoroom (1).png
+	../../../Downloads/Screenshot 2024-10-03 002652-Photoroom (2) (1).png
+	../../../Downloads/Screenshot 2024-10-03 002652-Photoroom (2).png
+	../../../Downloads/Screenshot 2024-10-03 002652-Photoroom.png
+	../../../Downloads/Screenshot 2025-02-14 155219.txt
+	../../../Downloads/Screenshot 2025-02-16 215119.png
+	../../../Downloads/Screenshot 2026-01-28 090541.jpeg
+	../../../Downloads/Screenshot 2026-02-03 234104 (1).png
+	../../../Downloads/Screenshot 2026-02-03 234104.png
+	../../../Downloads/Screenshot 2026-02-05 110912.png
+	../../../Downloads/Screenshot 2026-02-13 194110.png
+	../../../Downloads/Screenshot 2026-02-26 234356.pdf
+	../../../Downloads/Screenshot 2026-03-30 123506.png
+	../../../Downloads/Screenshot 2026-05-03 153710.png
+	../../../Downloads/Screenshot_2024-09-30_004630-removebg-preview.png
+	../../../Downloads/Screenshot_2024-10-04-22-21-27-143_com.instagram.android.jpg
+	../../../Downloads/Screenshot_2024-10-06-13-07-34-734_com.instagram.android-Photoroom (1).png
+	../../../Downloads/Screenshot_2024-10-06-13-07-34-734_com.instagram.android-Photoroom (2).png
+	../../../Downloads/Screenshot_2024-10-06-13-07-34-734_com.instagram.android-Photoroom.png
+	../../../Downloads/Screenshot_2024-10-06-13-07-34-734_com.instagram.android.jpg
+	../../../Downloads/Screenshot_2026-02-25-20-42-00-764_com.example.saffood.jpg.jpeg
+	../../../Downloads/Screenshot_2026-02-25-20-42-04-901_com.example.saffood.jpg.jpeg
+	../../../Downloads/Screenshot_2026-02-25-20-42-11-069_com.example.saffood.jpg.jpeg
+	../../../Downloads/Screenshot_2026-02-25-20-42-27-783_com.example.saffood.jpg.jpeg
+	../../../Downloads/Screenshot_2026-02-25-20-42-32-294_com.example.saffood.jpg.jpeg
+	../../../Downloads/Screenshot_2026-02-25-20-42-43-333_com.example.saffood.jpg.jpeg
+	../../../Downloads/Screenshot_2026-02-25-20-42-46-720_com.example.saffood.jpg.jpeg
+	../../../Downloads/Screenshot_2026-02-25-20-42-56-912_com.example.saffood.jpg.jpeg
+	../../../Downloads/Second Review. PPT001 (1).pptx
+	../../../Downloads/Second Review. PPT001.pptx
+	../../../Downloads/SecureClick_IEEE_Fina2l.docx
+	../../../Downloads/SecureClick_IEEE_Paper-1.pdf
+	../../../Downloads/SendAnywhere_825974.zip
+	../../../Downloads/SendAnywhere_857205.zip
+	../../../Downloads/SendAnywhere_K8K6UFBN.zip
+	../../../Downloads/Sending Push Notifications by Using Firebase Cloud Messaging.jpeg
+	../../../Downloads/Sending_Push_Notifications_by_Using_Firebase_Cloud_Messaging-removebg-preview.png
+	../../../Downloads/Senjitaley.mp3
+	../../../Downloads/Settings.png
+	../../../Downloads/Seval-Kodi-MassTamilan.fm.mp3
+	../../../Downloads/Shake-Yo-Body-MassTamilan.org.mp3
+	../../../Downloads/Sharuk and Mahad - 33&06.pptx
+	../../../Downloads/Silence.jpeg
+	../../../Downloads/Singam-Dance.mp3
+	../../../Downloads/Singam.mp3
+	../../../Downloads/Single-Pasanga-MassTamilan.org.mp3
+	../../../Downloads/Sirikkadhey.mp3
+	../../../Downloads/Sistina-LT-W04-Regular-1.zip
+	../../../Downloads/Slide 16_9 - 1 (1).png
+	../../../Downloads/Smart factory control center in action.png
+	../../../Downloads/Smartfactorycontrolcenterinactio.jpeg
+	../../../Downloads/Snapinsta.app_149073034_1052031431969051_7864102618529413459_n_1080.jpg
+	../../../Downloads/Snapinsta.app_161707369_936364003800761_4450780857386846731_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_161707369_936364003800761_4450780857386846731_n_1080.jpg
+	../../../Downloads/Snapinsta.app_312157001_1268679213930223_7609700809988997627_n_1080 - Copy - Copy.jpg
+	../../../Downloads/Snapinsta.app_312157001_1268679213930223_7609700809988997627_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_312157001_1268679213930223_7609700809988997627_n_1080.jpg
+	../../../Downloads/Snapinsta.app_417396890_18010546583220778_5657349446107974355_n_1080.jpg
+	../../../Downloads/Snapinsta.app_417444581_18010546598220778_1587152139458620293_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_417444581_18010546598220778_1587152139458620293_n_1080.jpg
+	../../../Downloads/Snapinsta.app_417450869_18010226807220778_6539204826485564778_n_1080.jpg
+	../../../Downloads/Snapinsta.app_417457562_18010546628220778_4670849671457895929_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_417457562_18010546628220778_4670849671457895929_n_1080.jpg
+	../../../Downloads/Snapinsta.app_417458479_18010546607220778_7112343185987823686_n_1080.jpg
+	../../../Downloads/Snapinsta.app_417469580_18010691939220778_6869105838189144083_n_1080.jpg
+	../../../Downloads/Snapinsta.app_417469580_18010691939220778_6869105838189144083_n_1080.png
+	../../../Downloads/Snapinsta.app_417471347_18010226843220778_2737041626271605282_n_1080 - Copy - Copy.jpg
+	../../../Downloads/Snapinsta.app_417471347_18010226843220778_2737041626271605282_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_417471347_18010226843220778_2737041626271605282_n_1080.jpg
+	../../../Downloads/Snapinsta.app_417498022_18010226762220778_991749385037434329_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_417498022_18010226762220778_991749385037434329_n_1080.jpg
+	../../../Downloads/Snapinsta.app_417498855_18010226840220778_5472611544908248212_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_417498855_18010226840220778_5472611544908248212_n_1080.jpg
+	../../../Downloads/Snapinsta.app_417513301_18010226786220778_5887490348196153860_n_1080 - Copy - Copy.jpg
+	../../../Downloads/Snapinsta.app_417513301_18010226786220778_5887490348196153860_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_417513301_18010226786220778_5887490348196153860_n_1080.jpg
+	../../../Downloads/Snapinsta.app_417523365_18010226774220778_4721381232769029963_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_417523365_18010226774220778_4721381232769029963_n_1080.jpg
+	../../../Downloads/Snapinsta.app_417524579_18010546619220778_7584439020389135627_n_1080.jpg
+	../../../Downloads/Snapinsta.app_417528416_18010546637220778_5503884918678130927_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_417528416_18010546637220778_5503884918678130927_n_1080.jpg
+	../../../Downloads/Snapinsta.app_420107675_2124848801186411_2181800805190569430_n_1080 - Copy - Copy.jpg
+	../../../Downloads/Snapinsta.app_420107675_2124848801186411_2181800805190569430_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_420107675_2124848801186411_2181800805190569430_n_1080.jpg
+	../../../Downloads/Snapinsta.app_420113072_362798913134313_2110505703152905241_n_1080 - Copy - Copy.jpg
+	../../../Downloads/Snapinsta.app_420113072_362798913134313_2110505703152905241_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_420113072_362798913134313_2110505703152905241_n_1080.jpg
+	../../../Downloads/Snapinsta.app_420180973_1165497254435663_3959108663946343762_n_1080 - Copy - Copy.jpg
+	../../../Downloads/Snapinsta.app_420180973_1165497254435663_3959108663946343762_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_420180973_1165497254435663_3959108663946343762_n_1080.jpg
+	../../../Downloads/Snapinsta.app_420506995_2450021741856719_1494971280173921133_n_1080 - Copy - Copy.jpg
+	../../../Downloads/Snapinsta.app_420506995_2450021741856719_1494971280173921133_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_420506995_2450021741856719_1494971280173921133_n_1080.jpg
+	../../../Downloads/Snapinsta.app_420632297_2577007989123973_9046093082786849894_n_1080 - Copy - Copy.jpg
+	../../../Downloads/Snapinsta.app_420632297_2577007989123973_9046093082786849894_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_420632297_2577007989123973_9046093082786849894_n_1080.jpg
+	../../../Downloads/Snapinsta.app_420652502_917867083299487_9089601759449093883_n_1080 - Copy - Copy.jpg
+	../../../Downloads/Snapinsta.app_420652502_917867083299487_9089601759449093883_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_420652502_917867083299487_9089601759449093883_n_1080.jpg
+	../../../Downloads/Snapinsta.app_428207068_908616290732458_1190456031411152445_n_1080 - Copy - Copy.jpg
+	../../../Downloads/Snapinsta.app_428207068_908616290732458_1190456031411152445_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_428207068_908616290732458_1190456031411152445_n_1080.jpg
+	../../../Downloads/Snapinsta.app_428370138_713973717223344_3659740222984449763_n_1080 - Copy - Copy.jpg
+	../../../Downloads/Snapinsta.app_428370138_713973717223344_3659740222984449763_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_428370138_713973717223344_3659740222984449763_n_1080.jpg
+	../../../Downloads/Snapinsta.app_431296344_387810170850244_8604773885448751437_n_1080-Photoroom (1).png
+	../../../Downloads/Snapinsta.app_431296344_387810170850244_8604773885448751437_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_431296344_387810170850244_8604773885448751437_n_1080.jpg
+	../../../Downloads/Snapinsta.app_435305129_406776422079280_5816905789939183920_n_1080-Photoroom (1).png
+	../../../Downloads/Snapinsta.app_435305129_406776422079280_5816905789939183920_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_435305129_406776422079280_5816905789939183920_n_1080.jpg
+	../../../Downloads/Snapinsta.app_440445907_733192925651013_816906381403388539_n_1080-Photoroom (1).png
+	../../../Downloads/Snapinsta.app_440445907_733192925651013_816906381403388539_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_440445907_733192925651013_816906381403388539_n_1080.jpg
+	../../../Downloads/Snapinsta.app_447603926_1184022015956284_6491895721946656350_n_1080 - Copy - Copy.jpg
+	../../../Downloads/Snapinsta.app_447603926_1184022015956284_6491895721946656350_n_1080 - Copy.jpg
+	../../../Downloads/Snapinsta.app_447603926_1184022015956284_6491895721946656350_n_1080.jpg
+	../../../Downloads/Snapinsta.app_448200033_17961719270769725_1251303434898153620_n_1080.jpg
+	../../../Downloads/Snapinsta.app_448200033_17961719270769725_1251303434898153620_n_1080.png
+	../../../Downloads/Snapinsta.app_448906835_1755770344957110_1625213649330662092_n_1080-Photoroom (2) (1).png
+	../../../Downloads/Snapinsta.app_448906835_1755770344957110_1625213649330662092_n_1080-Photoroom (2).png
+	../../../Downloads/Snapinsta.app_448906835_1755770344957110_1625213649330662092_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_448906835_1755770344957110_1625213649330662092_n_1080.jpg
+	../../../Downloads/Snapinsta.app_452963538_18025503311220778_5037886472262680081_n_1080.jpg
+	../../../Downloads/Snapinsta.app_453649353_853566633340211_2986582261147134382_n_1080-Photoroom (1).png
+	../../../Downloads/Snapinsta.app_453649353_853566633340211_2986582261147134382_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_453649353_853566633340211_2986582261147134382_n_1080.jpg
+	../../../Downloads/Snapinsta.app_457863646_405718582544329_2932449645551889534_n_1080-Photoroom (1).png
+	../../../Downloads/Snapinsta.app_457863646_405718582544329_2932449645551889534_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_457863646_405718582544329_2932449645551889534_n_1080.jpg
+	../../../Downloads/Snapinsta.app_458196569_715515617399017_1372660309268073137_n_1080 (1)-Photoroom.png
+	../../../Downloads/Snapinsta.app_458196569_715515617399017_1372660309268073137_n_1080 (1).jpg
+	../../../Downloads/Snapinsta.app_458196569_715515617399017_1372660309268073137_n_1080.jpg
+	../../../Downloads/Snapinsta.app_458208393_1157663425303054_2406736027256210606_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_458208393_1157663425303054_2406736027256210606_n_1080.jpg
+	../../../Downloads/Snapinsta.app_458289991_501029159528122_5053291051803174976_n_1080-Photoroom (1).png
+	../../../Downloads/Snapinsta.app_458289991_501029159528122_5053291051803174976_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_458289991_501029159528122_5053291051803174976_n_1080.jpg
+	../../../Downloads/Snapinsta.app_458300763_3713970602178620_3319940004146361354_n_1080 (1)-Photoroom.png
+	../../../Downloads/Snapinsta.app_458300763_3713970602178620_3319940004146361354_n_1080 (1).jpg
+	../../../Downloads/Snapinsta.app_458300763_3713970602178620_3319940004146361354_n_1080.jpg
+	../../../Downloads/Snapinsta.app_460323790_1237523420584817_3399027227204551904_n_1080-Photoroom (1).png
+	../../../Downloads/Snapinsta.app_460323790_1237523420584817_3399027227204551904_n_1080-Photoroom (2).png
+	../../../Downloads/Snapinsta.app_460434299_18040185047483031_3548169262948276228_n_1080.jpg
+	../../../Downloads/Snapinsta.app_460666491_1035387198127663_8820552378074273431_n_1080-Photoroom (1).png
+	../../../Downloads/Snapinsta.app_460666491_1035387198127663_8820552378074273431_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_460666491_1035387198127663_8820552378074273431_n_1080.jpg
+	../../../Downloads/Snapinsta.app_461116395_930862992221251_5470906132825203724_n_1080-Photoroom (1).png
+	../../../Downloads/Snapinsta.app_461326772_17989405550712001_5462397247657944742_n_1080-Photoroom (1).png
+	../../../Downloads/Snapinsta.app_461326772_17989405550712001_5462397247657944742_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_461326772_17989405550712001_5462397247657944742_n_1080.jpg
+	../../../Downloads/Snapinsta.app_461559668_17989405541712001_8612786247186198141_n_1080.jpg
+	../../../Downloads/Snapinsta.app_461823259_1650683038853584_2906470684250319565_n_1080.jpg
+	../../../Downloads/Snapinsta.app_462109952_1013782917372773_1474902233369973452_n_1080-Photoroom (1).png
+	../../../Downloads/Snapinsta.app_462109952_1013782917372773_1474902233369973452_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_462109952_1013782917372773_1474902233369973452_n_1080.jpg
+	../../../Downloads/Snapinsta.app_462221579_1098452991841233_2780269397433863504_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_462221579_1098452991841233_2780269397433863504_n_1080.jpg
+	../../../Downloads/Snapinsta.app_462297445_1552365295670478_1990788863311795894_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_462297445_1552365295670478_1990788863311795894_n_1080.jpg
+	../../../Downloads/Snapinsta.app_462358092_957722669482548_5025995476111695162_n_1080.jpg
+	../../../Downloads/Snapinsta.app_462366775_546967474486239_2640758915116938601_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_462366775_546967474486239_2640758915116938601_n_1080.jpg
+	../../../Downloads/Snapinsta.app_462386605_1275347116716165_4929547053553565368_n_1080-Photoroom (1).png
+	../../../Downloads/Snapinsta.app_462386605_1275347116716165_4929547053553565368_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_462386605_1275347116716165_4929547053553565368_n_1080.jpg
+	../../../Downloads/Snapinsta.app_462719967_1067051678754533_5465228557747612554_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_462719967_1067051678754533_5465228557747612554_n_1080.jpg
+	../../../Downloads/Snapinsta.app_462762179_839219005079751_7841242750208689118_n_1080-Photoroom (1) (1).png
+	../../../Downloads/Snapinsta.app_462762179_839219005079751_7841242750208689118_n_1080-Photoroom (1).png
+	../../../Downloads/Snapinsta.app_462762179_839219005079751_7841242750208689118_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_462762179_839219005079751_7841242750208689118_n_1080.jpg
+	../../../Downloads/Snapinsta.app_463605705_1054362646157844_5345344589933061215_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_463605705_1054362646157844_5345344589933061215_n_1080.jpg
+	../../../Downloads/Snapinsta.app_463638810_1074213204199565_8845904081262890697_n_1080.jpg
+	../../../Downloads/Snapinsta.app_463759453_1028949535587554_9107095606191787712_n_1080.jpg
+	../../../Downloads/Snapinsta.app_463794956_1194038655221201_5991516404112004153_n_1080.jpg
+	../../../Downloads/Snapinsta.app_463839752_387267241125084_1575787400509440739_n_1080.jpg
+	../../../Downloads/Snapinsta.app_464056889_541311871835863_481896829709940418_n_1080-Photoroom.png
+	../../../Downloads/Snapinsta.app_464056889_541311871835863_481896829709940418_n_1080.jpg
+	../../../Downloads/Snapinsta.app_464066260_1073460410989315_915397077392348759_n_1080.jpg
+	../../../Downloads/Snapinsta.app_464067543_4431224060437629_6800829637655564353_n_1080.jpg
+	../../../Downloads/Snapinsta.app_464222566_338593689311161_2140026322088228186_n_1080.jpg
+	../../../Downloads/Snapinsta.app_464229035_3915956442063569_1288708196849954235_n_1080.jpg
+	../../../Downloads/Snapinsta.app_464232264_8538004142912136_5944998971992394729_n_1080.jpg
+	../../../Downloads/Snapinsta.app_465706724_1090376758700164_1797320500780690771_n_1080.jpg
+	../../../Downloads/Snapinsta.app_465754148_957948789702378_6277026865461110464_n_1080.jpg
+	../../../Downloads/Snapinsta.app_465823324_577907974917163_8472248534958425677_n_1080.jpg
+	../../../Downloads/Snapinsta.app_465824236_1284530656054754_1981480296479532071_n_1080.jpg
+	../../../Downloads/Snapinsta.app_465827791_544883034848875_2091102917160315164_n_1080.jpg
+	../../../Downloads/Snapinsta.app_465828562_427357450418571_6933401086383035401_n_1080.jpg
+	../../../Downloads/Snapinsta.app_video_A345F00694EF698ECE4826999E7F03A0_video_dashinit (1).mp4
+	../../../Downloads/Snapinsta.app_video_A345F00694EF698ECE4826999E7F03A0_video_dashinit.mp4
+	../../../Downloads/Software Training Report - 4 (1).pdf
+	../../../Downloads/Software Training Report - 4 (2).pdf
+	../../../Downloads/Software Training Report - 4 (3).pdf
+	../../../Downloads/Software Training Report - 4 (4).pdf
+	../../../Downloads/Software Training Report - 4 (5).pdf
+	../../../Downloads/Software Training Report - 4.pdf
+	../../../Downloads/Software Training week-3 report.pdf
+	../../../Downloads/Somebody Just Paid $27 Million to Have Lunch with Billionaire Warren Buffett.jpeg
+	../../../Downloads/Somebody Just Paid $27 Million to Have Lunch with Billionaire Warren Buffett.png
+	../../../Downloads/Sparkh-CRM-main.zip
+	../../../Downloads/Sparkh_20260421_213304_0000.png
+	../../../Downloads/Sparkh_Infotech_DBMS_SQL_Full_Course_Assessment_2.pdf
+	../../../Downloads/Sparkh_Infotech_DBMS_SQL_Full_Course_Assessment_2_Answer_Key.pdf
+	../../../Downloads/Sparkh_Infotech_DBMS_SQL_Training_Assessment.pdf
+	../../../Downloads/Sparkh_Infotech_DBMS_SQL_Training_Assessment_Answer_Key.pdf
+	../../../Downloads/Sparkh_Infotech_DartOOP_QuestionPaper.pdf
+	../../../Downloads/Sparkh_Infotech_DartOOP_QuestionPaper.pdf.pdf
+	../../../Downloads/Spicy Chicken Fry Recipe.jpg
+	../../../Downloads/SpotifySetup.exe
+	../../../Downloads/Squid Game (2025) S03 EP02 720p.mkv
+	../../../Downloads/Squid Game (2025) S03 EP03 720p.mkv
+	../../../Downloads/Squid Game (2025) S03 EP04 720p.mkv
+	../../../Downloads/Squid Game (2025) S03 EP06 720p.mkv
+	../../../Downloads/Start Coding in Python_ A Beginner's Guide for Students.jpeg
+	../../../Downloads/SteamSetup.exe
+	../../../Downloads/Stole-My-Heart-Uplugged.mp3
+	../../../Downloads/Stole-My-Heart.mp3
+	../../../Downloads/Strained workday in an industrial office.png
+	../../../Downloads/Strainedworkdayinanindustrialoffic.jpeg
+	../../../Downloads/Student boy character illustration_ student is studying abroad. _ Premium Vector
+	../../../Downloads/Student_ID_proof_ID_Card_Bonafide_Student_Certificate_Letter_from_School__8914662_15952042GR3WCD.jpg
+	../../../Downloads/Sunset at Nyugati railway station, Budapest_ A man is watching the timetable at the deserted platform of Nyugati station right after the departure of the train carrying the Hungarian fans to the Romania-Hunga. Schmidt
+	../../../Downloads/Supar car in world_.jpeg
+	../../../Downloads/Supra.jpeg
+	../../../Downloads/Surviva-MassTamilan.com.mp3
+	../../../Downloads/TAM.png
+	../../../Downloads/TATA 2.png
+	../../../Downloads/TATA design.png
+	../../../Downloads/TAYLORdesign.png
+	../../../Downloads/TBTAM00635220000015074
+	../../../Downloads/TESLA01png.png
+	../../../Downloads/TESLA12.png
+	../../../Downloads/TN-4202503145613_certificate.pdf
+	../../../Downloads/TNMAS20538810000010196
+	../../../Downloads/TRADER design.png
+	../../../Downloads/TRUMP design.png
+	../../../Downloads/Take Your Business to the Cloud with GOOPIT!.jpeg
+	../../../Downloads/Take_Your_Business_to_the_Cloud_with_GOOPIT_-removebg-preview.png
+	../../../Downloads/Takkaru-Takkaru-MassTamilan.dev.mp3
+	../../../Downloads/Tamilselvi.mp3
+	../../../Downloads/Task-2.jpeg
+	../../../Downloads/TaxInvoice_AIN2425004310794.pdf
+	../../../Downloads/Teacher Vectors - Download Free High-Quality Vectors from Freepik _ Freepik.jpeg
+	../../../Downloads/Tech team analyzing industrial data.png
+	../../../Downloads/Techteamanalyzingindustrialdat.jpeg
+	../../../Downloads/Telegram Branding and Logo Design.jpeg
+	../../../Downloads/Telegram Desktop/
+	../../../Downloads/Tesla is outgrowing Elon Musk.jpeg
+	../../../Downloads/Thalai-Viduthalai-MassTamilan.com.mp3
+	../../../Downloads/Thani-Oruvan.mp3
+	../../../Downloads/Thappathan-Theriyum.mp3
+	../../../Downloads/The Momentous And Magnificent World Of Mountain Photography - Bored Art.jpeg
+	../../../Downloads/The Taj Mahal Palace Hotel in Mumbai, India.jpeg
+	../../../Downloads/The Talisman.jpeg
+	../../../Downloads/The Ultimate Guide to Choosing the Best Forex VPS.jpeg
+	"../../../Downloads/The oracle is right_ \342\200\234PRICE IS WHAT YOU PAY_ VALUE\342\200\246.jpeg"
+	"../../../Downloads/The photo depicts a sleek, black Bugatti Chiron, a\342\200\246.jpeg"
+	"../../../Downloads/The secret history\360\237\226\213 - Copy - Copy.png"
+	"../../../Downloads/The secret history\360\237\226\213 - Copy.png"
+	"../../../Downloads/The secret history\360\237\226\213.jpeg"
+	"../../../Downloads/The secret history\360\237\226\213.png"
+	../../../Downloads/The super rare 18k white gold Rolex Daytona. A true masterpiece featuring a baguette ruby sapphire bezel, a celestial Meteorite dial, and Roman numeral hour markers.Complete with a vibrant red leather strap.-Photo.png
+	../../../Downloads/The super rare 18k white gold Rolex Daytona. A true masterpiece featuring a baguette ruby sapphire bezel, a celestial Meteorite dial, and Roman numeral hour markers.Complete with a vibrant red leather strap..jpg
+	../../../Downloads/The top 8 cloud storage options.jpeg
+	../../../Downloads/The.Possession.of.Hannah.Grace.2018.720p.BluRay.x264-.YTS.AM-en.srt
+	../../../Downloads/Theemai-Dhan-Vellum.mp3
+	../../../Downloads/Theerthahalli_.jpeg
+	../../../Downloads/Theme-Music-MassTamilan.fm.mp3
+	../../../Downloads/There are 3 principles to Universal Design of Learning_ The first principle is to provide multiple means of representation. This is important so that everyone can make sense of the information_
+	../../../Downloads/Think More of Yourself.jpeg
+	../../../Downloads/Thodu-Vaanam.mp3
+	../../../Downloads/Today's Photography Worldwide _ Moon photography, Beautiful moon, Nature photography.jpg
+	../../../Downloads/Today's Photography Worldwide _ Moon photography, Beautiful moon, Nature photography.png
+	../../../Downloads/Tomb.Raider.Anniversary.zip
+	../../../Downloads/Tomcat-HK-Chennai.pem
+	../../../Downloads/Top of the World - Copy - Copy.jpeg
+	../../../Downloads/Top of the World - Copy.jpeg
+	../../../Downloads/Top of the World.jpeg
+	"../../../Downloads/Trabalhador de servi\303\247o de entrega e caminh\303\243o usando m\303\241scara m\303\251dica com caixas no desenho de ilustra\303\247\303\243o de carrinho _ Vetor Premium.jpeg"
+	"../../../Downloads/Trabalhador_de_servi\303\247o_de_entrega_e_caminh\303\243o_usando_m\303\241scara_m\303\251dica_com_caixas_no_desenho_de_ilustra\303\247\303\243o_de_carrinho___Vetor_Premium-removebg-preview.png"
+	../../../Downloads/Trading.jpeg
+	../../../Downloads/Training Coordinator_JD.docx
+	../../../Downloads/Tremolo-Regular.ttf
+	../../../Downloads/Trolley wallpaper, cable car wallpaper - Copy - Copy.jpeg
+	../../../Downloads/Trolley wallpaper, cable car wallpaper - Copy.jpeg
+	../../../Downloads/Trolley wallpaper, cable car wallpaper.jpeg
+	../../../Downloads/Turbo.C.3.2.zip
+	../../../Downloads/TurboC___for_Windows_7_v3.7.8.9.zip
+	../../../Downloads/U2005ntitled design.png
+	../../../Downloads/UR Cristiano HDR 4K Wallpaper.jpeg
+	../../../Downloads/Ulagam-Unnai.mp3
+	../../../Downloads/UltraViewer_setup_6.6.124_en.exe
+	../../../Downloads/Unakkenna-Venum-Sollu.mp3
+	../../../Downloads/Unakkulle-Mirugam.mp3
+	../../../Downloads/Unconfirmed 237628.crdownload
+	../../../Downloads/Unique Text Box PNG Picture, Yellow And Black Unique Quotes Text Box Banner, Text Box, Quotes Text Box, Yellow PNG Image For Free Download.jpeg
+	../../../Downloads/Universal-Cop.mp3
+	../../../Downloads/Unlock Smarter Integrations with Custom API Development _ Cyber Ace.jpeg
+	../../../Downloads/Unnai-Kanda-Naal-Mudhal.mp3
+	../../../Downloads/Untitled 01design.png
+	../../../Downloads/Untitled 02design.png
+	../../../Downloads/Untitled 03design.png
+	../../../Downloads/Untitled Project (1).jpg
+	../../../Downloads/Untitled Project (10).jpg
+	../../../Downloads/Untitled Project (11).jpg
+	../../../Downloads/Untitled Project (12).jpg
+	../../../Downloads/Untitled Project (13).jpg
+	../../../Downloads/Untitled Project (14) - Copy - Copy.jpg
+	../../../Downloads/Untitled Project (14) - Copy.jpg
+	../../../Downloads/Untitled Project (14).jpg
+	../../../Downloads/Untitled Project (15).jpg
+	../../../Downloads/Untitled Project (16) - Copy - Copy.jpg
+	../../../Downloads/Untitled Project (16) - Copy.jpg
+	../../../Downloads/Untitled Project (16).jpg
+	../../../Downloads/Untitled Project (16).png
+	../../../Downloads/Untitled Project (17) - Copy - Copy.png
+	../../../Downloads/Untitled Project (17) - Copy.png
+	../../../Downloads/Untitled Project (17).jpg
+	../../../Downloads/Untitled Project (17).png
+	../../../Downloads/Untitled Project (18).jpg
+	../../../Downloads/Untitled Project (19).jpg
+	../../../Downloads/Untitled Project (2).jpg
+	../../../Downloads/Untitled Project (20) - Copy - Copy.jpg
+	../../../Downloads/Untitled Project (20) - Copy.jpg
+	../../../Downloads/Untitled Project (20).jpg
+	../../../Downloads/Untitled Project (21).jpg
+	../../../Downloads/Untitled Project (21).png
+	../../../Downloads/Untitled Project (22).jpg
+	../../../Downloads/Untitled Project (22).png
+	../../../Downloads/Untitled Project (23).jpg
+	../../../Downloads/Untitled Project (24).jpg
+	../../../Downloads/Untitled Project (24).png
+	../../../Downloads/Untitled Project (25).jpg
+	../../../Downloads/Untitled Project (26).jpg
+	../../../Downloads/Untitled Project (27).jpg
+	../../../Downloads/Untitled Project (27).png
+	../../../Downloads/Untitled Project (28).jpg
+	../../../Downloads/Untitled Project (29).jpg
+	../../../Downloads/Untitled Project (3).jpg
+	../../../Downloads/Untitled Project (30).jpg
+	../../../Downloads/Untitled Project (31).jpg
+	../../../Downloads/Untitled Project (32).jpg
+	../../../Downloads/Untitled Project (33).jpg
+	../../../Downloads/Untitled Project (34).jpg
+	../../../Downloads/Untitled Project (35).jpg
+	../../../Downloads/Untitled Project (36).jpg
+	../../../Downloads/Untitled Project (37).jpg
+	../../../Downloads/Untitled Project (38).jpg
+	../../../Downloads/Untitled Project (39).jpg
+	../../../Downloads/Untitled Project (4).jpg
+	../../../Downloads/Untitled Project (40).jpg
+	../../../Downloads/Untitled Project (41).jpg
+	../../../Downloads/Untitled Project (42).jpg
+	../../../Downloads/Untitled Project (43).jpg
+	../../../Downloads/Untitled Project (44).jpg
+	../../../Downloads/Untitled Project (45).jpg
+	../../../Downloads/Untitled Project (46).jpg
+	../../../Downloads/Untitled Project (47).jpg
+	../../../Downloads/Untitled Project (48).jpg
+	../../../Downloads/Untitled Project (49).jpg
+	../../../Downloads/Untitled Project (5).jpg
+	../../../Downloads/Untitled Project (50).jpg
+	../../../Downloads/Untitled Project (51).jpg
+	../../../Downloads/Untitled Project (52).jpg
+	../../../Downloads/Untitled Project (53).jpg
+	../../../Downloads/Untitled Project (54).jpg
+	../../../Downloads/Untitled Project (55).jpg
+	../../../Downloads/Untitled Project (56).jpg
+	../../../Downloads/Untitled Project (57).jpg
+	../../../Downloads/Untitled Project (58).jpg
+	../../../Downloads/Untitled Project (59).jpg
+	../../../Downloads/Untitled Project (6).jpg
+	../../../Downloads/Untitled Project (60).jpg
+	../../../Downloads/Untitled Project (61).jpg
+	../../../Downloads/Untitled Project (62).jpg
+	../../../Downloads/Untitled Project (62).png
+	../../../Downloads/Untitled Project (63).jpg
+	../../../Downloads/Untitled Project (64).jpg
+	../../../Downloads/Untitled Project (65).jpg
+	../../../Downloads/Untitled Project (66).jpg
+	../../../Downloads/Untitled Project (66).png
+	../../../Downloads/Untitled Project (67).jpg
+	../../../Downloads/Untitled Project (68).jpg
+	../../../Downloads/Untitled Project (68).png
+	../../../Downloads/Untitled Project (69).jpg
+	../../../Downloads/Untitled Project (7).jpg
+	../../../Downloads/Untitled Project (70).jpg
+	../../../Downloads/Untitled Project (71).jpg
+	../../../Downloads/Untitled Project (72).jpg
+	../../../Downloads/Untitled Project (73).jpg
+	../../../Downloads/Untitled Project (74).jpg
+	../../../Downloads/Untitled Project (75).jpg
+	../../../Downloads/Untitled Project (76).jpg
+	../../../Downloads/Untitled Project (77).jpg
+	../../../Downloads/Untitled Project (78).jpg
+	../../../Downloads/Untitled Project (79).jpg
+	../../../Downloads/Untitled Project (8).jpg
+	../../../Downloads/Untitled Project (80).jpg
+	../../../Downloads/Untitled Project (80).png
+	../../../Downloads/Untitled Project (81).jpg
+	../../../Downloads/Untitled Project (82).jpg
+	../../../Downloads/Untitled Project (83).jpg
+	../../../Downloads/Untitled Project (84).jpg
+	../../../Downloads/Untitled Project (85).jpg
+	../../../Downloads/Untitled Project (86).jpg
+	../../../Downloads/Untitled Project (87).jpg
+	../../../Downloads/Untitled Project (88).jpg
+	../../../Downloads/Untitled Project (89).jpg
+	../../../Downloads/Untitled Project (9).jpg
+	../../../Downloads/Untitled Project (90).jpg
+	../../../Downloads/Untitled Project (90).png
+	../../../Downloads/Untitled Project (91).jpg
+	../../../Downloads/Untitled Project (92).jpg
+	../../../Downloads/Untitled Project (92).png
+	../../../Downloads/Untitled Project (93).jpg
+	../../../Downloads/Untitled Project (94).jpg
+	../../../Downloads/Untitled Project (94).png
+	../../../Downloads/Untitled Project (95).jpg
+	../../../Downloads/Untitled Project (96).jpg
+	../../../Downloads/Untitled Project BUGATTI.jpg
+	../../../Downloads/Untitled Project.jpg
+	../../../Downloads/Untitled desi1gn.png
+	../../../Downloads/Untitled design (1).png
+	../../../Downloads/Untitled design (2).png
+	../../../Downloads/Untitled design (3).png
+	../../../Downloads/Untitled design RR.png
+	../../../Downloads/Untitled design copy.png
+	../../../Downloads/Untitled design-Photoroom.png
+	../../../Downloads/Untitled design.png
+	../../../Downloads/Untitled design_20260309_151658_0000.png
+	../../../Downloads/Untitled designcr7 ii (1).png
+	../../../Downloads/Untitled document - Google Docs.pdf
+	../../../Downloads/Untitled document.docx
+	../../../Downloads/Untitled-1.html
+	../../../Downloads/Untitled0.ipynb
+	../../../Downloads/Untitled1.ipynb
+	../../../Downloads/Untitled_Project__13_-removebg-preview.png
+	../../../Downloads/Upward Financial Growth Chart - Investment, Stock Market.jpeg
+	../../../Downloads/V. Harikrishnan
+	../../../Downloads/V.HARI KRISHNAN (1).zip
+	../../../Downloads/VID_20260201_062236_457.mp4
+	../../../Downloads/VSCodeUserSetup-x64-1.86.2 - Shortcut.lnk
+	../../../Downloads/VSCodeUserSetup-x64-1.86.2.exe
+	../../../Downloads/Vaada-Bin-Laada.mp3
+	../../../Downloads/Vaadi-Nee-Vaadi-MassTamilan.com.mp3
+	../../../Downloads/Vaale-Vaale.mp3
+	../../../Downloads/Vaathi-Raid-MassTamilan.io.mp3
+	../../../Downloads/Vaaya-En-Veera.mp3
+	../../../Downloads/Valayapatti-MassTamilan.fm.mp3
+	../../../Downloads/Vasantha kumar.pdf
+	../../../Downloads/Vengamavan-MassTamilan.org.mp3
+	../../../Downloads/Vidhai-Pola.mp3
+	../../../Downloads/Vijay Picture.jpeg
+	../../../Downloads/Vilayadu-Mangatha-Extended-Dance-Mix.mp3
+	../../../Downloads/Vilayadu-Mangatha.mp3
+	../../../Downloads/Vintage art - Porsche 911.jpeg
+	../../../Downloads/VirtualBox-7.1.2-164945-Win.exe
+	../../../Downloads/Vistara Likely To Resume Normal Operations This Weekend.jpeg
+	"../../../Downloads/Voici les livres pr\303\251f\303\251r\303\251s de Barack Obama en 2023.jpeg"
+	../../../Downloads/WAKEUntitled design.png
+	../../../Downloads/WB NEW3.png
+	../../../Downloads/WD.png
+	../../../Downloads/Wadhwani Foundation Certificate - 69b6ca7c996ace3e6a8d641b.pdf
+	../../../Downloads/Wadhwani Foundation Certificate - 69b6d3ac996ace3e6a8d9edf.pdf
+	../../../Downloads/WalmartSalesAnalysis-master.zip
+	../../../Downloads/WalmartSalesAnalysis-master/
+	../../../Downloads/Walt Disney PC.jpeg
+	../../../Downloads/Warren Buffett has investing lieutenants who buy stocks for him_ Here's what they are betting on.jpeg
+	../../../Downloads/Warren Buffett has investing lieutenants who buy stocks for him_ Here's what they are betting on.png
+	../../../Downloads/Warren Buffett on Habits & Qualities - New Trader U.jpeg
+	../../../Downloads/Warren Buffett ~ Fortune.jpeg
+	../../../Downloads/Warren Buffett ~ Fortune.png
+	../../../Downloads/Warren Buffett, Chairman of Berkshire Hathway and Trustee of Bill and___-Photoroom.png
+	../../../Downloads/Warren Buffett, Chairman of Berkshire Hathway and Trustee of Bill and___.jpeg
+	../../../Downloads/Warren Buffett.jpeg
+	../../../Downloads/Web_Photo_Editor (1).jpg
+	../../../Downloads/Web_Photo_Editor.jpg
+	../../../Downloads/Webex_webinar.ics
+	../../../Downloads/Welcome to Vidya Lakshmi Portal.pdf
+	../../../Downloads/What 13 Highly Successful People Like Warren Buffett and Donald Trump Read Every Morning _ Entrepreneur.jpeg
+	../../../Downloads/What Inspires You_.jpeg
+	../../../Downloads/What Sets Warren Buffett and Elon Musk Apart_.jpeg
+	../../../Downloads/What are Stop words[1].pdf
+	../../../Downloads/Whatever you call them, stadium anthems, sports anthems, arena anthems, or jock jams, they're generally _addictive_ and well-known songs that are played over the public address system at stadiums a___.jpeg
+	../../../Downloads/WhatsApp Image 2024-09-18 at 16.25.55_5e497cfa.jpg
+	../../../Downloads/WhatsApp Image 2024-09-30 at 13.35.07_95fd307c.jpg
+	../../../Downloads/WhatsApp Image 2024-10-01 at 01.48.23_5e723f9c.jpg
+	../../../Downloads/WhatsApp Image 2024-10-01 at 01.48.23_5e723f9c.png
+	../../../Downloads/WhatsApp Image 2024-10-02 at 01.35.42_fbb5ca01.png
+	../../../Downloads/WhatsApp Image 2024-12-23 at 12.27.41_5477d510.jpg
+	../../../Downloads/WhatsApp Image 2025-02-21 at 1.30.06 AM.jpeg
+	../../../Downloads/WhatsApp Image 2025-02-21 at 1.30.07 AM.jpeg
+	../../../Downloads/WhatsApp Image 2025-04-07 at 8.02.23 PM.jpeg
+	../../../Downloads/WhatsApp Image 2025-05-17 at 7.04.54 PM.jpeg
+	../../../Downloads/WhatsApp Image 2025-06-25 at 12.38.28 AM.jpeg
+	../../../Downloads/WhatsApp Image 2025-06-25 at 12.38.32 AM.jpeg
+	../../../Downloads/WhatsApp Image 2025-06-25 at 12.38.33 AM (1).jpeg
+	../../../Downloads/WhatsApp Image 2025-06-25 at 12.38.33 AM.jpeg
+	../../../Downloads/WhatsApp Image 2025-06-25 at 12.38.34 AM (1).jpeg
+	../../../Downloads/WhatsApp Image 2025-06-25 at 12.38.34 AM (2).jpeg
+	../../../Downloads/WhatsApp Image 2025-06-25 at 12.38.34 AM.jpeg
+	../../../Downloads/WhatsApp Image 2025-06-25 at 12.38.35 AM.jpeg
+	../../../Downloads/WhatsApp Image 2025-06-25 at 12.40.50 AM (1).jpeg
+	../../../Downloads/WhatsApp Image 2025-06-25 at 12.40.50 AM.jpeg
+	../../../Downloads/WhatsApp Image 2025-06-25 at 12.40.51 AM (1).jpeg
+	../../../Downloads/WhatsApp Image 2025-06-25 at 12.40.51 AM.jpeg
+	../../../Downloads/WhatsApp Image 2025-10-04 at 07.17.18_014ab5ab.jpg
+	../../../Downloads/WhatsApp Image 2025-11-06 at 1.14.45 PM.jpeg
+	../../../Downloads/WhatsApp Image 2025-11-06 at 1.17.39 PM.jpeg
+	../../../Downloads/WhatsApp Image 2025-11-06 at 1.20.00 PM.jpeg
+	../../../Downloads/WhatsApp Image 2025-11-06 at 1.22.09 PM.jpeg
+	../../../Downloads/WhatsApp Image 2025-11-14 at 8.37.40 PM.jpeg
+	../../../Downloads/WhatsApp Image 2026-01-20 at 9.36.16 AM.jpeg
+	../../../Downloads/WhatsApp Image 2026-01-22 at 12.38.24 PM.jpeg
+	../../../Downloads/WhatsApp Image 2026-02-07 at 5.26.01 PM (1).jpeg
+	../../../Downloads/WhatsApp Image 2026-02-07 at 5.26.01 PM.jpeg
+	../../../Downloads/WhatsApp Image 2026-03-31 at 11.31.11 PM.jpeg
+	../../../Downloads/WhatsApp Image 2026-04-06 at 10.58.12 AM.jpeg
+	../../../Downloads/WhatsApp Image 2026-04-06 at 10.58.33 AM.jpeg
+	../../../Downloads/WhatsApp Image 2026-04-06 at 7.22.42 AM.jpeg
+	../../../Downloads/WhatsApp Image 2026-04-08 at 4.29.21 PM.jpeg
+	../../../Downloads/WhatsApp Image 2026-04-29 at 10.24.47 AM (1).jpeg
+	../../../Downloads/WhatsApp Image 2026-04-29 at 10.24.47 AM_edited.jpg
+	../../../Downloads/WhatsApp Image 2026-06-06 at 8.47.57 AM.jpeg
+	../../../Downloads/WhatsApp Image 2026-06-19 at 12.42.25 AM.jpeg
+	../../../Downloads/WhatsApp Image 2026-06-27 at 3.52.55 PM.jpeg
+	../../../Downloads/WhatsApp Installer (1).exe
+	../../../Downloads/WhatsApp Installer (2).exe
+	../../../Downloads/WhatsApp Installer (3).exe
+	../../../Downloads/WhatsApp Installer.exe
+	../../../Downloads/WhatsApp Unknown 2026-08-21 at 2.30.37 PM.zip
+	../../../Downloads/WhatsApp Unknown 2026-08-21 at 2.30.37 PM/
+	../../../Downloads/WhatsApp_Image_2024-09-18_at_16.25.55_5e497cfa-removebg-preview.png
+	../../../Downloads/Why Telegram CEO was arrested in Paris_.jpeg
+	../../../Downloads/Why-this-kolaveri-di.mp3
+	../../../Downloads/Wi-Wi-Wi-Wi-Wifi.mp3
+	../../../Downloads/Windows11InstallationAssistant.exe
+	../../../Downloads/Wireshark-4.4.0-x64.exe
+	"../../../Downloads/Wolf logos Kurt Logolar\304\261.jpeg"
+	../../../Downloads/Wolf nigh minimal logo design.jpeg
+	"../../../Downloads/Women lining up to be impregnated by billionaire after he reveals he\342\200\231s fathered 100 kids who have___.jpeg"
+	"../../../Downloads/World\342\200\231s First Ever Calendar Of Naked Red-Haired Men That We Made For 2017 (NSFW).jpeg"
+	../../../Downloads/X twitter.png
+	../../../Downloads/X.png
+	../../../Downloads/XXXXXXX2912_P_2025.pdf
+	../../../Downloads/YESdesign.png
+	../../../Downloads/YPE3834991.pdf
+	../../../Downloads/YR FMLY .png
+	../../../Downloads/Yennachu-Yedhachu.mp3
+	../../../Downloads/Yennai-Arindhaal.mp3
+	../../../Downloads/Youtube free icons designed by Freepik.jpeg
+	../../../Downloads/Yummi.jpeg
+	../../../Downloads/ZEROTH REVIEW Cloud-2 (7).pptx
+	../../../Downloads/ZEROTH REVIEWpptx.pptx (3) (1) (1) (1).pdf
+	../../../Downloads/ZEROTH REVIEWpptx.pptx (3) (1) (1) (2).pdf
+	../../../Downloads/ZEROTH REVIEWpptx.pptx (3) (1) (1).pdf
+	../../../Downloads/Zeroth Review AH (1).pdf
+	../../../Downloads/Zeroth Review AH (2) (2).pdf
+	../../../Downloads/Zeroth Review AH (2).pdf
+	../../../Downloads/Zeroth Review AH (3) (1).pdf
+	../../../Downloads/Zeroth Review AH (3).pdf
+	../../../Downloads/Zeroth Review AH.pdf
+	../../../Downloads/Zeroth Review AH.pptx
+	../../../Downloads/Zeroth Review Presentation Guide.docx
+	../../../Downloads/Zeroth Review Presentation Guide.pdf
+	../../../Downloads/Zeroth Review ppt (1)-1 (1).pptx
+	../../../Downloads/Zeroth Review ppt (1)-1.pptx
+	../../../Downloads/Zeroth Review ppt (1).pptx
+	../../../Downloads/Zeroth Review ppt (2).pptx
+	../../../Downloads/Zeroth Review ppt (3).pptx
+	../../../Downloads/Zeroth Review ppt (4).pptx
+	../../../Downloads/Zeroth Review ppt (5).pptx
+	../../../Downloads/Zeroth Review ppt (6).pptx
+	../../../Downloads/Zeroth Review ppt.pptx
+	../../../Downloads/Zeroth Review ppt.pptx (1).pdf
+	../../../Downloads/Zeroth Review ppt.pptx (2).pdf
+	../../../Downloads/Zeroth Review ppt.pptx.pdf
+	"../../../Downloads/Zone De Texte Du Cadre Bleu 3d PNG , Bleu, Zone De Texte, Sc\303\250ne Bleue Fichier PNG et PSD pour le t\303\251l\303\251chargement libre.jpeg"
+	../../../Downloads/[@UCMOVIE] cloverfield.2008.720p.bluray.mkv
+	../../../Downloads/_A-ROX SOFTWARE BUDGET SHEET.pdf (1).pdf
+	../../../Downloads/_A-ROX SOFTWARE BUDGET SHEET.pdf (2).pdf
+	../../../Downloads/_A-ROX SOFTWARE BUDGET SHEET.pdf (3).pdf
+	../../../Downloads/_A-ROX SOFTWARE BUDGET SHEET.pdf.pdf
+	"../../../Downloads/_DBMS & SQL Training \342\200\223 Online Assessment Report.pdf"
+	../../../Downloads/_Getintopc.com_Adobe.Photoshop.2022_v23.1.0.143.iso
+	../../../Downloads/_Getintopc.com_Adobe.Photoshop.CC.2015.5.iso
+	../../../Downloads/_Getintopc.com_Adobe_Photoshop_2023_v24.2.0.315.rar
+	../../../Downloads/_Getintopc.com_Wondershare_Filmora_9.3.0.23x64_Multilingual.rar
+	../../../Downloads/_The Legacy of Bill Gates_.jpeg
+	../../../Downloads/_Young, Fit Black Man Recovering After Training Hard In Fitness Gym - Lifting Weights_ by Stocksy Contributor _Rob And Julia Campbell_-Photoroom (1).png
+	../../../Downloads/_Young, Fit Black Man Recovering After Training Hard In Fitness Gym - Lifting Weights_ by Stocksy Contributor _Rob And Julia Campbell_-Photoroom.png
+	../../../Downloads/_Young, Fit Black Man Recovering After Training Hard In Fitness Gym - Lifting Weights_ by Stocksy Contributor _Rob And Julia Campbell_.jpeg
+	../../../Downloads/_temp_matlab_R2024b_Windows/
+	../../../Downloads/a20f824c-1406-4bd3-a021-18486ba62f1b.jpeg
+	../../../Downloads/a2blogo.png
+	../../../Downloads/a2bmeals.jpg
+	../../../Downloads/a2bmeals1.jpg
+	../../../Downloads/a2bmeals2.jpg
+	../../../Downloads/a2bmeals3.jpg
+	../../../Downloads/a2bmeals4.jpg
+	../../../Downloads/a2bongal1.jpg
+	../../../Downloads/a2bpongal.jpg
+	../../../Downloads/a2btomato.jpg
+	../../../Downloads/a8e9f081-f167-4996-a658-27629b116fd2.jpeg
+	../../../Downloads/aadhar_hari.jpg
+	../../../Downloads/aaharhknew.pdf
+	../../../Downloads/aapam.jpg
+	../../../Downloads/acknowledgementSlip_S1310354369420 (1).pdf
+	../../../Downloads/acknowledgementSlip_S1310354369420.pdf
+	../../../Downloads/acknowledgementSlip_S1313650173000.pdf
+	../../../Downloads/acknowledgementSlip_S1313734556770 (1).pdf
+	../../../Downloads/acknowledgementSlip_S1313734556770.pdf
+	../../../Downloads/acknowledgementSlip_S1320707566000 (1).pdf
+	../../../Downloads/acknowledgementSlip_S1320707566000.pdf
+	../../../Downloads/acknowledgementSlip_S1327667829000.pdf
+	../../../Downloads/acknowledgementSlip_S1348648994910.pdf
+	../../../Downloads/acknowledgementSlip_S1359991106000 (1).pdf
+	../../../Downloads/acknowledgementSlip_S1359991106000.pdf
+	../../../Downloads/acknowledgementSlip_S1830558248310.pdf
+	../../../Downloads/acknowledgementSlip_S1832713308000.pdf
+	../../../Downloads/ahmedabad-concept-illustration.zip
+	../../../Downloads/ahmedabad-concept-illustration/
+	../../../Downloads/ai.jpg
+	../../../Downloads/aiml.pdf
+	../../../Downloads/alcove-dashboard-main.zip
+	../../../Downloads/alcove-dashboard-main/
+	../../../Downloads/algorithm for alts.pdf
+	"../../../Downloads/all AI app for social media marketing \360\237\222\236.jpeg"
+	../../../Downloads/almond juice.jpeg
+	../../../Downloads/alts-project/
+	../../../Downloads/alts_auth_and_approval_flow.svg
+	../../../Downloads/alts_new_fixed.users.json
+	../../../Downloads/am 1st slide.png
+	../../../Downloads/am slide I BOLT.png
+	../../../Downloads/anas.pdf
+	../../../Downloads/android-studio-2024.3.2.14-windows.exe
+	../../../Downloads/android-studio-2024.3.2.15-windows.exe
+	../../../Downloads/anydesk-7.0.0-amd64.tar.gz
+	../../../Downloads/apache-maven-3.9.9-bin.zip
+	../../../Downloads/apache-maven-3.9.9-bin/
+	../../../Downloads/apache-tomcat-9.0.100 (1).tar.gz
+	../../../Downloads/apache-tomcat-9.0.100.tar.gz
+	../../../Downloads/apache-tomcat-9.0.98.zip
+	../../../Downloads/apache-tomcat-9.0.98/
+	../../../Downloads/app-release.apk
+	../../../Downloads/app.py
+	../../../Downloads/app_logo_hk.jpg
+	../../../Downloads/appium-uiautomator2-driver-master.zip
+	../../../Downloads/apple1.jpeg
+	../../../Downloads/appledesign.png
+	../../../Downloads/archive.zip
+	../../../Downloads/archive/
+	../../../Downloads/arduino-ide_2.3.7_Windows_64bit.exe
+	../../../Downloads/arox-app-main (1).zip
+	../../../Downloads/arox-app-main.zip
+	../../../Downloads/arrow_image.png
+	../../../Downloads/aspire.html
+	../../../Downloads/assignment.jpg
+	../../../Downloads/autorun.inf
+	../../../Downloads/b03cfa45-dd39-4e3a-b09a-5e5354b59ac9.jpeg
+	../../../Downloads/b19cd4b2-357c-4077-b733-fc3062a9551c.jpeg
+	../../../Downloads/b3af49e1-ae32-4d4a-b097-0ebaa7537b7c.jpeg
+	../../../Downloads/b41faed0-3f7d-4e08-8277-3a8dd4296c4a.jpeg
+	../../../Downloads/banana.jpg
+	../../../Downloads/bank_ detail.jpg
+	../../../Downloads/bb57002076e5a2decaea8ca20ec22ee7.jpg
+	../../../Downloads/bba3.jpeg
+	../../../Downloads/bbq1.jpeg
+	../../../Downloads/bbq2.jpeg
+	../../../Downloads/bbq4.jpeg
+	../../../Downloads/bbq5.jpeg
+	../../../Downloads/bbq6.jpeg
+	../../../Downloads/beans1.jpeg
+	../../../Downloads/beverages.jpg
+	../../../Downloads/bill gates.png
+	../../../Downloads/bill gates2.png
+	../../../Downloads/birinjal.jpeg
+	../../../Downloads/bmw car.jpg
+	../../../Downloads/bmw style.jpeg
+	../../../Downloads/bmw style1.jpeg
+	../../../Downloads/bmw-car-logo.png
+	../../../Downloads/bmw-m-series-seo-overview-teaser-03.jpg
+	../../../Downloads/bmw1.jpg
+	../../../Downloads/bmw3.jpg
+	../../../Downloads/boo.jpeg
+	../../../Downloads/book.png
+	../../../Downloads/book2.png
+	../../../Downloads/book4.png
+	../../../Downloads/bookf3.png
+	../../../Downloads/brilliant_curcan1.ino
+	../../../Downloads/brocolli1.jpeg
+	../../../Downloads/bsc cs current results.pdf
+	../../../Downloads/buffett.png
+	../../../Downloads/bug-duplicate-detector-ai-system-main (1).zip
+	../../../Downloads/bug-duplicate-detector-ai-system-main.zip
+	../../../Downloads/build_your_pc_2026-01-04_13-08-11.pdf
+	../../../Downloads/butter1.jpeg
+	../../../Downloads/butter2.jpeg
+	../../../Downloads/butter3.jpeg
+	../../../Downloads/c0d0b81e-cc5a-493e-92c2-b23f60297a2e.jpeg-Photoroom (1) - Copy - Copy.png
+	../../../Downloads/c0d0b81e-cc5a-493e-92c2-b23f60297a2e.jpeg-Photoroom (1) - Copy.png
+	../../../Downloads/c0d0b81e-cc5a-493e-92c2-b23f60297a2e.jpeg-Photoroom (1).png
+	../../../Downloads/c0d0b81e-cc5a-493e-92c2-b23f60297a2e.jpeg-Photoroom.png
+	../../../Downloads/c29f24f5-b2af-4e42-b457-b8d70e2a14fd.pptx
+	../../../Downloads/c3612f25-3850-4b99-9ac9-401bfa301c63.jpeg
+	../../../Downloads/c3baec5a-6c04-4f24-beb3-f449f61a6abe.jpeg
+	../../../Downloads/c4768cb9-bbcd-4cea-951a-b51e4f345ad6-removebg-preview.png
+	../../../Downloads/c4768cb9-bbcd-4cea-951a-b51e4f345ad6.jpeg
+	../../../Downloads/c4b705ed-4caa-445c-a406-4218e48c9018.jpeg
+	../../../Downloads/c64ecee9-e025-4fde-8c95-84be24ddbe99.jpeg
+	../../../Downloads/ca.pem
+	../../../Downloads/calendar.jpg
+	../../../Downloads/cancel.png
+	../../../Downloads/canvas/
+	../../../Downloads/capcut-8-0-1-3366.exe
+	../../../Downloads/car.jpg
+	../../../Downloads/car_cross_table_db (1).sql
+	../../../Downloads/caramel waffles.jpeg
+	../../../Downloads/caramel_waffles-removebg-preview.png
+	../../../Downloads/carb.png
+	../../../Downloads/carrot1.jpeg
+	../../../Downloads/carrot2.jpeg
+	../../../Downloads/carrot3.jpeg
+	../../../Downloads/cartoon.zip
+	../../../Downloads/cauliflower.jpeg
+	../../../Downloads/certificate.pdf
+	../../../Downloads/cheerful_3D_animated_group-removebg-preview.png
+	../../../Downloads/cheese1.jpeg
+	../../../Downloads/cheese2.jpeg
+	../../../Downloads/cherries-removebg-preview.png
+	../../../Downloads/cherries.jpeg
+	../../../Downloads/chicken 65.jpeg
+	../../../Downloads/chicken biriyani1.jpeg
+	../../../Downloads/chicken chukka.jpeg
+	../../../Downloads/chicken gravyy.jpeg
+	../../../Downloads/chicken logo.png
+	../../../Downloads/chicken lollipop.jpeg
+	../../../Downloads/chicken stuff parotta.jpeg
+	../../../Downloads/chicken thokku.jpeg
+	../../../Downloads/chicken thokkuu.jpeg
+	../../../Downloads/chicken varities.jpeg
+	../../../Downloads/chicken3.png
+	../../../Downloads/chickenbiriyani.jpg
+	../../../Downloads/chickengravy.jpg
+	../../../Downloads/chickennoodles.jpg
+	../../../Downloads/chiken varity.jpg
+	../../../Downloads/china (1).png
+	../../../Downloads/china.png
+	../../../Downloads/christian-wiediger-O84_bYe3idQ-unsplash.jpg
+	../../../Downloads/clean_dataset.csv
+	../../../Downloads/clean_dataset.py
+	../../../Downloads/clear.png
+	../../../Downloads/clock.png
+	../../../Downloads/cloud services 16marks.pdf
+	../../../Downloads/cloudy.png
+	../../../Downloads/cognizant job note.pdf
+	../../../Downloads/cold coffee.jpeg
+	../../../Downloads/cold summer drink.jpeg
+	../../../Downloads/cold_summer_drink-removebg-preview.png
+	../../../Downloads/college_erp_app.zip
+	../../../Downloads/college_erp_app/
+	../../../Downloads/commandlinetools-win-13114758_latest.zip
+	../../../Downloads/contact_support (1).png
+	../../../Downloads/contact_support.png
+	../../../Downloads/contact_supports.png
+	../../../Downloads/contactus.jpg
+	../../../Downloads/corn.jpeg
+	../../../Downloads/corriander.jpeg
+	../../../Downloads/corriander2.jpeg
+	../../../Downloads/costs.csv
+	../../../Downloads/cr7 (1).jpeg
+	../../../Downloads/cr7 (2).jpeg
+	../../../Downloads/cr7 car cn.png
+	../../../Downloads/cr7.jpeg
+	../../../Downloads/crab-removebg-preview.png
+	../../../Downloads/crab.jpeg
+	../../../Downloads/crescentlogo.png
+	../../../Downloads/crispy  choco donut .jpeg
+	../../../Downloads/crispy raw desert.jpeg
+	../../../Downloads/cse_ 3rd year.pdf
+	../../../Downloads/cse_1st year.pdf
+	../../../Downloads/cse_2nd year.pdf
+	../../../Downloads/csk thme.jpg
+	../../../Downloads/cup.png
+	../../../Downloads/curd1.jpeg
+	../../../Downloads/customer-removebg-preview.png
+	../../../Downloads/customer.png
+	../../../Downloads/cyber security module 1.pdf
+	../../../Downloads/d3dx9_26.dll.zip
+	../../../Downloads/dairy.jpg
+	../../../Downloads/dairyproducts.jpeg
+	../../../Downloads/dark chocolate cake.jpeg
+	../../../Downloads/dark_chocolate_cake-removebg-preview.png
+	../../../Downloads/dart_program (1).pdf
+	../../../Downloads/dart_program.pdf
+	../../../Downloads/dartsdk-windows-x64-release.zip
+	../../../Downloads/dartsdk-windows-x64-release/
+	../../../Downloads/dashboard.jpg
+	../../../Downloads/dates.jpeg
+	../../../Downloads/db7d6baa-68dc-46fe-a11e-0d62221a74da - Copy - Copy.jpeg
+	../../../Downloads/db7d6baa-68dc-46fe-a11e-0d62221a74da - Copy.jpeg
+	../../../Downloads/db7d6baa-68dc-46fe-a11e-0d62221a74da.jpeg
+	../../../Downloads/dce4fe46-92a5-41e7-a434-807c46eadbc0.jpeg
+	../../../Downloads/ddjpg.jpg
+	../../../Downloads/delivery_app.zip
+	../../../Downloads/demo (1).mp4
+	../../../Downloads/demo..mp4
+	../../../Downloads/demo.mp4
+	../../../Downloads/demo.zip
+	../../../Downloads/demo/
+	../../../Downloads/dept-erp-main.zip
+	../../../Downloads/dept-erp-main/
+	../../../Downloads/desert.jpg
+	../../../Downloads/design.png
+	../../../Downloads/desktop.ini
+	../../../Downloads/dfc6f4ea-2f90-425e-981d-bc0caf3df42e.jpeg
+	../../../Downloads/dima-panyukov-_4ZLmHzwARY-unsplash.jpg
+	../../../Downloads/directx_jun2007_redist/
+	../../../Downloads/donuts-removebg-preview.png
+	../../../Downloads/donuts.jpeg
+	../../../Downloads/download (1) - Copy.jpeg
+	../../../Downloads/download (1).jpeg
+	../../../Downloads/download (1).jpg
+	../../../Downloads/download (1).png
+	../../../Downloads/download (10).jpeg
+	../../../Downloads/download (10).png
+	../../../Downloads/download (11).jpeg
+	../../../Downloads/download (12).jpeg
+	../../../Downloads/download (13).jpeg
+	../../../Downloads/download (14).jpeg
+	../../../Downloads/download (15)-Photoroom.png
+	../../../Downloads/download (15).jpeg
+	../../../Downloads/download (16).jpeg
+	../../../Downloads/download (17).jpeg
+	../../../Downloads/download (18).jpeg
+	../../../Downloads/download (19).jpeg
+	../../../Downloads/download (2).jpeg
+	../../../Downloads/download (2).jpg
+	../../../Downloads/download (2).png
+	../../../Downloads/download (20).jpeg
+	../../../Downloads/download (21).jpeg
+	../../../Downloads/download (21).png
+	../../../Downloads/download (22).jpeg
+	../../../Downloads/download (23).jpeg
+	../../../Downloads/download (24).jpeg
+	../../../Downloads/download (25).jpeg
+	../../../Downloads/download (26).jpeg
+	../../../Downloads/download (27).jpeg
+	../../../Downloads/download (28).jpeg
+	../../../Downloads/download (29).jpeg
+	../../../Downloads/download (3).jpeg
+	../../../Downloads/download (3).jpg
+	../../../Downloads/download (3).png
+	../../../Downloads/download (30).jpeg
+	../../../Downloads/download (31).jpeg
+	../../../Downloads/download (32).jpeg
+	../../../Downloads/download (33).jpeg
+	../../../Downloads/download (34).jpeg
+	../../../Downloads/download (35) - Copy.jpeg
+	../../../Downloads/download (4).jpeg
+	../../../Downloads/download (4).jpg
+	../../../Downloads/download (4).png
+	../../../Downloads/download (5).jpeg
+	../../../Downloads/download (5).jpg
+	../../../Downloads/download (5).png
+	../../../Downloads/download (6).jpeg
+	../../../Downloads/download (6).jpg
+	../../../Downloads/download (7).jpeg
+	../../../Downloads/download (7).jpg
+	../../../Downloads/download (8).jpeg
+	../../../Downloads/download (8).jpg
+	../../../Downloads/download (9)-Photoroom.png
+	../../../Downloads/download (9).jpeg
+	../../../Downloads/download - Copy.jpeg
+	../../../Downloads/download-removebg-preview (1).png
+	../../../Downloads/download-removebg-preview (2).png
+	../../../Downloads/download-removebg-preview.png
+	../../../Downloads/download.jpeg
+	../../../Downloads/download.jpg
+	../../../Downloads/download.png
+	../../../Downloads/download__1_-removebg-preview (1).png
+	../../../Downloads/download__1_-removebg-preview.png
+	../../../Downloads/download__29_-removebg-preview.png
+	../../../Downloads/download__2_-removebg-preview (1).png
+	../../../Downloads/download__2_-removebg-preview.png
+	../../../Downloads/download__33_-removebg-preview.png
+	../../../Downloads/download__3_-removebg-preview (1).png
+	../../../Downloads/download__3_-removebg-preview (2).png
+	../../../Downloads/download__3_-removebg-preview.png
+	../../../Downloads/download__4_-removebg-preview (1).png
+	../../../Downloads/download__4_-removebg-preview.png
+	../../../Downloads/download__5_-removebg-preview (1).png
+	../../../Downloads/download__5_-removebg-preview.png
+	../../../Downloads/dragonfruit.jpeg
+	../../../Downloads/drawer.png
+	../../../Downloads/dsMODULE 1.pdf
+	../../../Downloads/dsMODULE 2.docx
+	../../../Downloads/dsMODULE 4.docx
+	../../../Downloads/dsMODULE 5.docx
+	../../../Downloads/dsUnit III notes.docx
+	../../../Downloads/dynamic.docx
+	../../../Downloads/edraw-max_setup_full5371.exe
+	../../../Downloads/eef42817-cc45-4a7b-96ed-a3e75fe37699.jpeg
+	../../../Downloads/egg1.jpeg
+	../../../Downloads/egg2.jpeg
+	../../../Downloads/eggcurry.jpg
+	../../../Downloads/emotion_model.pkl
+	../../../Downloads/employee.jpg
+	../../../Downloads/erp_saf_backend.zip
+	../../../Downloads/erp_saf_backend/
+	../../../Downloads/erp_saf_logo.png
+	../../../Downloads/erp_saf_logo_white.png
+	../../../Downloads/erp_saffer.zip
+	../../../Downloads/erp_saffer_db_users.sql
+	../../../Downloads/ex-phase1-1 (1).pdf
+	../../../Downloads/ex-phase1-1.pdf
+	../../../Downloads/exlhk2-1.pdf
+	../../../Downloads/exlhk2-2.pdf
+	../../../Downloads/exlhk2-3.pdf
+	../../../Downloads/exlhk2-4.pdf
+	../../../Downloads/ezyZip.zip
+	../../../Downloads/ezyZip/
+	../../../Downloads/f1.jpg
+	../../../Downloads/f1487da9-c33e-45b0-b5ba-526124d2cad3.jpeg
+	../../../Downloads/f3afca50-04da-4a54-b736-3cf4734a6145.png
+	../../../Downloads/f404c1cc5edc41e083084248bacc3029[1].jpg
+	../../../Downloads/f6273652b1359e6a9b847469db58a1d9.jpg
+	../../../Downloads/facebook.png
+	../../../Downloads/fail to win (1).png
+	../../../Downloads/fail to win.png
+	../../../Downloads/faq.jpg
+	../../../Downloads/favicon_io.zip
+	../../../Downloads/fdm_x64_setup.exe
+	../../../Downloads/feature_trial/
+	../../../Downloads/feedback.jpg
+	../../../Downloads/fees structure 2.jpg
+	../../../Downloads/fees structure details.jpg
+	../../../Downloads/fees structure.jpg
+	../../../Downloads/fees structure.pdf
+	../../../Downloads/feeslist.jpg
+	../../../Downloads/ferari .jpg
+	../../../Downloads/ferari011.png
+	../../../Downloads/file_example_WAV_1MG.wav
+	../../../Downloads/filebook.png
+	../../../Downloads/filebook2.png
+	../../../Downloads/filter coffee.jpeg
+	../../../Downloads/final dataset for work ecllipse.csv
+	../../../Downloads/final doc.docx
+	../../../Downloads/final micro learning ppt (1).pptx
+	../../../Downloads/final micro learning ppt (2).pptx
+	../../../Downloads/final micro learning ppt.pptx
+	../../../Downloads/final niral nelza.docx
+	../../../Downloads/final niral nelza.pdf
+	../../../Downloads/final report xoxo.docx
+	../../../Downloads/final report xoxo.pdf
+	../../../Downloads/final second review ppt.pptx
+	../../../Downloads/financial_loan.csv
+	../../../Downloads/first review.txt
+	../../../Downloads/fish1.jpeg
+	../../../Downloads/fish2.jpeg
+	../../../Downloads/fish3.jpeg
+	../../../Downloads/flutter/
+	../../../Downloads/flutter_windows_3.29.3-stable.zip
+	../../../Downloads/flutter_windows_3.32.4-stable.zip
+	../../../Downloads/fogg1.png
+	../../../Downloads/fogg2.png
+	../../../Downloads/fogg3.png
+	../../../Downloads/foggy.png
+	../../../Downloads/food.png
+	../../../Downloads/food/
+	../../../Downloads/food1.jpg
+	../../../Downloads/food2.jpg
+	../../../Downloads/food4.jpg
+	../../../Downloads/food7.jpg
+	../../../Downloads/food_categories.fastfood.json
+	../../../Downloads/food_categories.vegetable.json
+	../../../Downloads/food_service_ad (1).zip
+	../../../Downloads/food_service_ad (2).zip
+	../../../Downloads/food_service_ad (2)/
+	../../../Downloads/food_service_ad.zip
+	../../../Downloads/food_ui.jpg
+	../../../Downloads/foodbg.jpg
+	../../../Downloads/fooddelivery.png
+	../../../Downloads/foods.jpg
+	../../../Downloads/forgot_password (2).png
+	../../../Downloads/forgot_password.png
+	../../../Downloads/fp.png
+	../../../Downloads/frecnh cakes.jpeg
+	../../../Downloads/french fries.jpeg
+	../../../Downloads/freshjuice.jpg
+	../../../Downloads/fruitjuices.jpg
+	../../../Downloads/fulltandoori.jpg
+	../../../Downloads/gettingstarted_course_files.zip
+	../../../Downloads/gg.pdf
+	../../../Downloads/ghee1.jpeg
+	../../../Downloads/git notes.txt
+	../../../Downloads/google-services (1).json
+	../../../Downloads/google-services (2).json
+	../../../Downloads/google-services (3).json
+	../../../Downloads/google-services (4).json
+	../../../Downloads/google-services (5).json
+	../../../Downloads/google-services .json
+	../../../Downloads/google-services.json
+	../../../Downloads/google.png
+	../../../Downloads/gpt (1).html
+	../../../Downloads/gpt.html
+	../../../Downloads/gradle-8.0-all.zip
+	../../../Downloads/grapes.jpeg
+	../../../Downloads/grapes22-removebg-preview.png
+	../../../Downloads/grapes22.jpeg
+	../../../Downloads/gravy.jpeg
+	../../../Downloads/green pepper.jpeg
+	../../../Downloads/grill1-removebg-preview.png
+	../../../Downloads/grill1.jpeg
+	../../../Downloads/grill2.jpeg
+	../../../Downloads/grill3.jpeg
+	../../../Downloads/grill4.jpeg
+	../../../Downloads/grill5.jpeg
+	../../../Downloads/grilled.jpg
+	../../../Downloads/guava.jpeg
+	../../../Downloads/habit 4 new.png
+	../../../Downloads/habit fpage.png
+	../../../Downloads/hackathon report_01.pdf
+	../../../Downloads/hackathon report_02.pdf
+	../../../Downloads/hackathon report_03.pdf
+	../../../Downloads/hadoop-3.3.6.tar.gz
+	../../../Downloads/halftandoori.jpg
+	../../../Downloads/hari.pdf
+	../../../Downloads/hariharan (1).pdf
+	../../../Downloads/hariharan 2026 resume (1).pdf
+	../../../Downloads/hariharan 2026 resume (2).pdf
+	../../../Downloads/hariharan 2026 resume.pdf
+	../../../Downloads/hariharan pps.jpg
+	../../../Downloads/hariharan resume analyst .jpg
+	../../../Downloads/hariharan resume.jpg
+	../../../Downloads/hariharan resume.pdf
+	../../../Downloads/hariharan.pdf
+	../../../Downloads/hariharanv.jpg
+	../../../Downloads/healthcare.pdf
+	../../../Downloads/healthy juices.jpeg
+	../../../Downloads/healthy-removebg-preview.png
+	../../../Downloads/healthy.jpg
+	../../../Downloads/healthy_juices-removebg-preview.png
+	../../../Downloads/herbal tea.jpeg
+	../../../Downloads/hh/
+	../../../Downloads/hharan.pem
+	../../../Downloads/hk-logo.png
+	../../../Downloads/hk.txt
+	../../../Downloads/hk_aadhar.jpg
+	../../../Downloads/hk_passport_photo.jpg
+	../../../Downloads/hklogo.png
+	../../../Downloads/hkrish25msexcel2-2 (1).xlsx
+	../../../Downloads/hkrish25msexcel2-2.xlsx
+	../../../Downloads/hkrish25msexcel2-3.xlsx
+	../../../Downloads/hkrish25msexcel2-4.xlsx
+	../../../Downloads/hkrishlogo.png
+	../../../Downloads/hlo.jpeg
+	../../../Downloads/home (1).png
+	../../../Downloads/home-2.png
+	../../../Downloads/home.pdf
+	../../../Downloads/home.png
+	../../../Downloads/honey waffles.jpeg
+	../../../Downloads/honeybbq.jpeg
+	../../../Downloads/hot chocolate.jpeg
+	../../../Downloads/hot chocolate2.jpeg
+	../../../Downloads/html-youtube-tutorial-main (1).zip
+	../../../Downloads/html-youtube-tutorial-main.zip
+	../../../Downloads/httpsmyaadhaar.uidai.gov.incheckSta.txt
+	../../../Downloads/iPhone 16.jpeg
+	../../../Downloads/ice coffee.jpeg
+	../../../Downloads/icecream cake scoop.jpeg
+	../../../Downloads/icecream cupcake.jpeg
+	../../../Downloads/icecream-removebg-preview.png
+	../../../Downloads/icecream.jpeg
+	../../../Downloads/icecream_cake_scoop-removebg-preview.png
+	../../../Downloads/icecream_cupcake-removebg-preview.png
+	../../../Downloads/icon-swipe-left-glyph-style-simple-illustration-editable-stroke-free-vector.jpg
+	../../../Downloads/icon.ico
+	../../../Downloads/image.png
+	../../../Downloads/imgres.htm
+	../../../Downloads/imran (1).pdf
+	../../../Downloads/imran.pdf
+	../../../Downloads/in.gov.abc-ABCID-122259421636.pdf
+	../../../Downloads/index.html
+	../../../Downloads/indian-buildings-palms-river.zip
+	../../../Downloads/instagram-text12.png
+	../../../Downloads/instagram.png
+	../../../Downloads/inventory-management-system-main.zip
+	../../../Downloads/invite (1).ics
+	../../../Downloads/invite.ics
+	../../../Downloads/istack-commons-runtime-3.0.8-sources.jar
+	../../../Downloads/istockphoto-1150931120-1024x1024.jpg
+	../../../Downloads/istockphoto-1692507637-1024x1024-removebg-preview.png
+	../../../Downloads/istockphoto-1692507637-1024x1024.jpg
+	../../../Downloads/jcreator-5.00.017-installer.exe
+	../../../Downloads/jcreator-5.00.017-installer_AOhQ6-1.exe
+	../../../Downloads/jcreator-5.00.017-installer_bW-bsF1.exe
+	../../../Downloads/jdk-17.0.12_windows-x64_bin.exe
+	../../../Downloads/jdk-17_windows-x64_bin.exe
+	../../../Downloads/jdk-23_windows-x64_bin.exe
+	../../../Downloads/jdk-23_windows-x64_bin.zip
+	../../../Downloads/jdk-23_windows-x64_bin/
+	../../../Downloads/jj.png
+	../../../Downloads/jk  (1).png
+	../../../Downloads/jk .png
+	../../../Downloads/joey-banks-XUH3OSkdj4Y-unsplash.jpg
+	../../../Downloads/johnson  resume .pdf (1).pdf
+	../../../Downloads/johnson  resume .pdf.pdf
+	../../../Downloads/joker.jpeg
+	../../../Downloads/joker.png
+	../../../Downloads/kalaiselvi.pdf
+	../../../Downloads/kiwi juice.jpeg
+	../../../Downloads/kiwi2.jpeg
+	../../../Downloads/kiwi_juice-removebg-preview.png
+	../../../Downloads/kiwifruit-removebg-preview.png
+	../../../Downloads/kiwifruit.jpeg
+	../../../Downloads/kothu parota.jpeg
+	../../../Downloads/ksacknowledgementSlip_S1348648994910.pdf
+	../../../Downloads/ladyfinger.jpeg
+	../../../Downloads/leaderboard.jpg
+	../../../Downloads/leon-seibert-1RiyAwNIiew-unsplash.jpg
+	../../../Downloads/lifestyle.jpeg
+	../../../Downloads/lighthouse.jpg
+	../../../Downloads/lighthouse2.png
+	../../../Downloads/ligthning.png
+	../../../Downloads/loading.gif
+	../../../Downloads/login form UI_UX.jpeg
+	../../../Downloads/login-page.png
+	../../../Downloads/logo03.png
+	../../../Downloads/logo1.png
+	../../../Downloads/logs.json
+	"../../../Downloads/love these kinda places\360\237\221\200.jpeg"
+	../../../Downloads/luca-david-BV9rakxVvQQ-unsplash.jpg
+	../../../Downloads/manchurriangravy.jpg
+	../../../Downloads/mango1.jpeg
+	../../../Downloads/map.jpg
+	../../../Downloads/map_viewer_app-main.zip
+	../../../Downloads/master_slave.png
+	../../../Downloads/mastercard.png
+	../../../Downloads/matlab_R2024b_Windows (1).exe
+	../../../Downloads/meals.jpg
+	../../../Downloads/mealstamil.jpg
+	../../../Downloads/meeting schedule.pdf
+	../../../Downloads/men1.png
+	../../../Downloads/men2.png
+	../../../Downloads/milk1.jpeg
+	../../../Downloads/milk2.jpeg
+	../../../Downloads/milk3.jpeg
+	../../../Downloads/mint juice.jpeg
+	../../../Downloads/mint_juice-removebg-preview (1).png
+	../../../Downloads/mint_juice-removebg-preview.png
+	../../../Downloads/mixed berry juice.jpeg
+	../../../Downloads/mixed_berry_juice-removebg-preview.png
+	../../../Downloads/mohammed fazil-hackthon (1).docx
+	../../../Downloads/mongodb-compass-1.47.1-win32-x64.exe
+	../../../Downloads/mongodb-compass-1.49.0-win32-x64.exe
+	../../../Downloads/mongodb-windows-x86_64-8.2.1-signed.msi
+	../../../Downloads/mongodb-windows-x86_64-8.2.3-signed (1).msi
+	../../../Downloads/mongodb-windows-x86_64-8.2.3-signed.msi
+	../../../Downloads/mongosh-2.5.8-x64.msi
+	../../../Downloads/mongosh-2.6.0-win32-x64.zip
+	../../../Downloads/moon.png
+	../../../Downloads/mr beast _ jimmy.jpeg
+	../../../Downloads/msword assignment-1 (1).docx
+	../../../Downloads/msword assignment-1 (2).docx
+	../../../Downloads/msword assignment-1.docx
+	../../../Downloads/mushroom.jpg
+	../../../Downloads/mushroomgravy.jpg
+	../../../Downloads/mutton gravy.jpeg
+	../../../Downloads/muttonbiriyani.jpg
+	../../../Downloads/mysql-connector-python-8.0.33-windows-x86-64bit.msi
+	../../../Downloads/mysql-installer-community-8.0.36.0.msi
+	../../../Downloads/mysql-installer-community-8.0.40.0 (1).msi
+	../../../Downloads/mysql-installer-community-8.0.40.0 (2).msi
+	../../../Downloads/mysql-installer-community-8.0.40.0.msi
+	../../../Downloads/mysql-workbench-community-8.0.36-winx64.msi
+	../../../Downloads/mysql-workbench-community-8.0.43-winx64.msi
+	../../../Downloads/mysql.pratice session.csv
+	../../../Downloads/mysql.pratice session01.csv
+	../../../Downloads/mysqlsampledatabase.zip
+	../../../Downloads/mysqlsampledatabase/
+	../../../Downloads/neocities-kinghkrish.zip
+	../../../Downloads/new black Rolls Royce Ghost.jpeg
+	../../../Downloads/new message notification on smartphone screen concept illustration flat design vector eps10_ modern graphic element for landing page, empty state ui, infographic, icon (1).jpeg
+	../../../Downloads/new message notification on smartphone screen concept illustration flat design vector eps10_ modern graphic element for landing page, empty state ui, infographic, icon.jpeg
+	../../../Downloads/new saffer demo.png
+	../../../Downloads/new.png
+	../../../Downloads/new_logo_mini.jpeg
+	../../../Downloads/new_logo_white.png
+	../../../Downloads/new_logo_white_bg-removebg-preview.png
+	../../../Downloads/new_logo_white_bg.png
+	../../../Downloads/new_sparkh_logo.jpeg
+	../../../Downloads/news.jpg
+	../../../Downloads/node-v22.14.0-x64.msi
+	../../../Downloads/node-v24.12.0-x64.msi
+	../../../Downloads/noodles.jpeg
+	../../../Downloads/noodles2.jpeg
+	../../../Downloads/noodles3.jpeg
+	../../../Downloads/nool parotta.jpeg
+	../../../Downloads/nuts choco icecream.jpeg
+	../../../Downloads/nuts white cake.jpeg
+	../../../Downloads/nvs-1.7.1.msi
+	../../../Downloads/obama.png
+	../../../Downloads/octopus.jpeg
+	../../../Downloads/onedrivehk25.pdf
+	../../../Downloads/onion.jpeg
+	../../../Downloads/oreo choco icecream.jpeg
+	../../../Downloads/oreo chocolate cake.jpeg
+	../../../Downloads/oreo_chocolate_cake-removebg-preview.png
+	../../../Downloads/outline-landmarks-skyline-concept.zip
+	../../../Downloads/outlookhk.pdf
+	../../../Downloads/output(google colab).ipynb
+	../../../Downloads/output(google_colab) (1).py
+	../../../Downloads/output(google_colab).ipynb
+	../../../Downloads/output(google_colab).py
+	../../../Downloads/p1.png
+	../../../Downloads/p2.png
+	../../../Downloads/paner pizza.jpg
+	../../../Downloads/panneer.jpeg
+	../../../Downloads/panneer1.jpeg
+	../../../Downloads/papaya juice.jpeg
+	../../../Downloads/parotta gravy1.jpeg
+	../../../Downloads/parotta gravyyy.jpeg
+	../../../Downloads/parotta.jpg
+	../../../Downloads/parottagravy.jpg
+	../../../Downloads/passwords.db
+	../../../Downloads/pasta1.jpeg
+	../../../Downloads/pasta2.jpeg
+	../../../Downloads/pasta3.jpeg
+	../../../Downloads/pasta4.jpeg
+	../../../Downloads/pasta5.jpeg
+	../../../Downloads/pasta6.jpeg
+	../../../Downloads/pasta7.jpeg
+	../../../Downloads/pastas13-removebg-preview.png
+	../../../Downloads/pastas13.jpeg
+	../../../Downloads/pastas14.jpeg
+	../../../Downloads/patient_data.csv
+	../../../Downloads/payment_history.jpeg
+	../../../Downloads/paymentcard-removebg-preview.png
+	../../../Downloads/paymentcard.png
+	../../../Downloads/payments_due_2025-03-03T07_20_07.519Z.csv
+	../../../Downloads/paypal.jpeg
+	../../../Downloads/paytm.jpeg
+	../../../Downloads/permission.jpg
+	../../../Downloads/person_m.png
+	../../../Downloads/pexels-a2pro-3422964.jpg
+	../../../Downloads/pexels-anete-lusina-5240548.jpg
+	../../../Downloads/pexels-baybiyik-4432037.jpg
+	../../../Downloads/pexels-d0nmil0-935484.jpg
+	../../../Downloads/pexels-dariuskrs-2808337 (1).jpg
+	../../../Downloads/pexels-dariuskrs-2808337.jpg
+	../../../Downloads/pexels-eray-karatas-756165405-28487234.jpg
+	../../../Downloads/pexels-erik-g-12654570-6236574.jpg
+	../../../Downloads/pexels-faisal-rahman-4119603.jpg
+	../../../Downloads/pexels-faruktokluoglu-2977929.jpg
+	../../../Downloads/pexels-gijs-coolen-1325695-2948297 - Copy.jpg
+	../../../Downloads/pexels-gijs-coolen-1325695-2948297.jpg
+	../../../Downloads/pexels-harrisonhaines-11502920 - Copy.jpg
+	../../../Downloads/pexels-harrisonhaines-11502920.jpg
+	../../../Downloads/pexels-harrisonhaines-2834653 - Copy.jpg
+	../../../Downloads/pexels-harrisonhaines-2834653.jpg
+	../../../Downloads/pexels-ian-panelo-4567338.jpg
+	../../../Downloads/pexels-introspectivedsgn-5214413.jpg
+	../../../Downloads/pexels-jibarofoto-3689533 - Copy.jpg
+	../../../Downloads/pexels-jibarofoto-3689533.jpg
+	../../../Downloads/pexels-justin-hamilton-16109-158918.jpg
+	../../../Downloads/pexels-kampratt-3457780 - Copy.jpg
+	../../../Downloads/pexels-kampratt-3457780.jpg
+	../../../Downloads/pexels-lalesh-aldarwish-168938.jpg
+	../../../Downloads/pexels-lilartsy-1192335.jpg
+	../../../Downloads/pexels-luis-gomes-166706-546819.jpg
+	../../../Downloads/pexels-lynxexotics-3894057 - Copy.jpg
+	../../../Downloads/pexels-lynxexotics-3894057.jpg
+	../../../Downloads/pexels-lynxexotics-4141873 - Copy.jpg
+	../../../Downloads/pexels-lynxexotics-4141873.jpg
+	../../../Downloads/pexels-maxravier-5534996 - Copy.jpg
+	../../../Downloads/pexels-maxravier-5534996.jpg
+	../../../Downloads/pexels-mayday-1545743 - Copy.jpg
+	../../../Downloads/pexels-mayday-1545743.jpg
+	../../../Downloads/pexels-miami302-28518977.jpg
+	../../../Downloads/pexels-miami302-28519007.jpg
+	../../../Downloads/pexels-moe-bodden-5308424-18956505.jpg
+	../../../Downloads/pexels-nati-87264186-20721298.jpg
+	../../../Downloads/pexels-nicholas-espinosa-249812770-13387265 - Copy.jpg
+	../../../Downloads/pexels-nicholas-espinosa-249812770-13387265.jpg
+	../../../Downloads/pexels-nikita-volodko-1234519-29527749.jpg
+	../../../Downloads/pexels-pavel-danilyuk-5496464 - Copy.jpg
+	../../../Downloads/pexels-pavel-danilyuk-5496464.jpg
+	../../../Downloads/pexels-pavel-danilyuk-5496464.png
+	../../../Downloads/pexels-pepecaspers-2934282.jpg
+	../../../Downloads/pexels-pixabay-258458.jpg
+	../../../Downloads/pexels-pok-rie-33563-1432675.jpg
+	../../../Downloads/pexels-stephanlouis-5604213 - Copy.jpg
+	../../../Downloads/pexels-stephanlouis-5604213.jpg
+	../../../Downloads/pexels-thatguycraig000-1546901.jpg
+	../../../Downloads/pexels-tim-samuel-5834945.jpg
+	../../../Downloads/pexels-tim-samuel-5835336.jpg
+	../../../Downloads/pexels-tima-miroshnichenko-5380651.jpg
+	../../../Downloads/pexels-tima-miroshnichenko-5703527.jpg
+	../../../Downloads/pexels-tothszabolcs-3255349.jpg
+	../../../Downloads/pexels-wendywei-1662570 - Copy.jpg
+	../../../Downloads/pexels-wendywei-1662570.jpg
+	../../../Downloads/pexels-yuraforrat-8642186 - Copy.jpg
+	../../../Downloads/pexels-yuraforrat-8642186.jpg
+	../../../Downloads/phase -2-20250508T161709Z-1-001.zip
+	../../../Downloads/phase -2-20250508T162253Z-1-001.zip
+	../../../Downloads/phase -2/
+	../../../Downloads/phase-3 fazil.pdf
+	../../../Downloads/phase-3 hariharan.pdf
+	../../../Downloads/phase-3 kani.pdf
+	../../../Downloads/phone (2).png
+	../../../Downloads/phone.png
+	../../../Downloads/photo_2024-07-12_21-08-32 (1).jpg
+	../../../Downloads/photo_2024-07-12_21-08-32 (2).jpg
+	../../../Downloads/photo_2024-07-12_21-08-32.jpg
+	../../../Downloads/pizza1.jpeg
+	../../../Downloads/pizza10-removebg-preview.png
+	../../../Downloads/pizza10.jpeg
+	../../../Downloads/pizza2.jpeg
+	../../../Downloads/pizza3.jpeg
+	../../../Downloads/pizza4.jpeg
+	../../../Downloads/pizza5.jpeg
+	../../../Downloads/pizza6.jpeg
+	../../../Downloads/pizza7.jpeg
+	../../../Downloads/pizza8.jpeg
+	../../../Downloads/pizza9.jpeg
+	../../../Downloads/plan (1).pdf
+	../../../Downloads/plan.pdf
+	../../../Downloads/pngwing.com (1).png
+	../../../Downloads/pngwing.com.png
+	../../../Downloads/porsche.jpg
+	../../../Downloads/porsche1.jpg
+	../../../Downloads/pp-phase1-1.pdf
+	../../../Downloads/pp-phase1-2.pdf
+	../../../Downloads/ppthk251-1.pdf
+	../../../Downloads/ppthk251-2.pdf
+	../../../Downloads/ppthk252-1.pdf
+	../../../Downloads/prawn1.jpeg
+	../../../Downloads/prawn2-removebg-preview.png
+	../../../Downloads/prawn2.jpeg
+	../../../Downloads/problem_statements.xlsx
+	../../../Downloads/product_engineer_Report_week-01.docx
+	../../../Downloads/product_engineer_Report_week-01.pdf
+	../../../Downloads/profile-4.png
+	../../../Downloads/profile1.jpg
+	../../../Downloads/profile2.jpg
+	../../../Downloads/profile3.jpg
+	../../../Downloads/profile_update_requests-export-2026-03-22_12-02-07.csv
+	../../../Downloads/profiles-export-2026-03-22_12-02-39.csv
+	../../../Downloads/pumpkin.jpeg
+	../../../Downloads/pvc_sheet.jpg
+	../../../Downloads/pvc_sheet.png
+	../../../Downloads/pycharm-community-2023.2.4 - Shortcut (2).lnk
+	../../../Downloads/pycharm-community-2023.2.4 - Shortcut.lnk
+	../../../Downloads/pycharm-community-2023.2.4.exe
+	../../../Downloads/python-3.12.0-amd64.exe
+	../../../Downloads/python-3.13.2-amd64.exe
+	../../../Downloads/python-3.14.3-amd64 (1).exe
+	../../../Downloads/python-3.14.3-amd64.exe
+	../../../Downloads/railway platform in monsoon.jpeg
+	../../../Downloads/rainy.png
+	../../../Downloads/rambuttan.jpeg
+	../../../Downloads/reac house design.png
+	../../../Downloads/readme.txt
+	../../../Downloads/recuirementlogo.png
+	../../../Downloads/redmi note 11.jpeg
+	../../../Downloads/request letter ed-l.pdf
+	../../../Downloads/requirement.txt
+	../../../Downloads/resume hh.pdf
+	../../../Downloads/resume_hk (1).pdf
+	../../../Downloads/resume_hk.pdf
+	../../../Downloads/road (1).png
+	../../../Downloads/road.png
+	../../../Downloads/royalenfield.zip
+	../../../Downloads/rs.png
+	../../../Downloads/s1.jpeg
+	../../../Downloads/s2.jpeg
+	../../../Downloads/s3.jpeg
+	../../../Downloads/sabtool_win_8_10_11_v180715.zip
+	../../../Downloads/sabtool_win_8_10_11_v180715/
+	../../../Downloads/saffer demo(1) (1).png
+	../../../Downloads/saffer demo(1).png
+	../../../Downloads/saffer demo.png
+	../../../Downloads/saffer school.png
+	../../../Downloads/saffer-school (1).apk
+	../../../Downloads/saffer-school (2).apk
+	../../../Downloads/saffer-school (3).apk
+	../../../Downloads/saffer-school.apk
+	../../../Downloads/saffer_erp.zip
+	../../../Downloads/saffood(1).png
+	../../../Downloads/saffood-splashscreen.png
+	../../../Downloads/samp 1.jpg
+	../../../Downloads/santhosh report 2.pdf
+	../../../Downloads/sch.png
+	../../../Downloads/school-hori.png
+	../../../Downloads/school.png
+	../../../Downloads/school01.png
+	../../../Downloads/school02.png
+	../../../Downloads/school03.png
+	../../../Downloads/school1.png
+	../../../Downloads/schoolbg.jpg
+	../../../Downloads/scrcpy-win64-v3.3.1.zip
+	../../../Downloads/scrcpy-win64-v3.3.1/
+	../../../Downloads/screen mirror/
+	../../../Downloads/script.js
+	../../../Downloads/seafood.jpg
+	../../../Downloads/secure3 (1).pptx
+	../../../Downloads/secure3.pptx
+	../../../Downloads/secureclick docs 8 (1).docx
+	../../../Downloads/secureclick docs2.docx
+	../../../Downloads/secureclick docs2.pdf
+	../../../Downloads/secureclick-main.zip
+	../../../Downloads/secureclick-main/
+	../../../Downloads/send_image.png
+	../../../Downloads/setup-1a.bin
+	../../../Downloads/setup-1b.bin
+	../../../Downloads/setup.exe
+	../../../Downloads/shops-export-2026-03-22_12-02-52.csv
+	../../../Downloads/signin01.jpg
+	../../../Downloads/signin02.jpg
+	../../../Downloads/signin03.jpg
+	../../../Downloads/signin04.jpg
+	../../../Downloads/sleep less design.png
+	../../../Downloads/smart-sip-tracker-main (1).zip
+	../../../Downloads/smart-sip-tracker-main (2) - Copy.zip
+	../../../Downloads/smart-sip-tracker-main (2).zip
+	../../../Downloads/smart-sip-tracker-main.zip
+	../../../Downloads/smart-sip-tracker-main/
+	../../../Downloads/smokyopaneer tikka.jpg
+	../../../Downloads/snacks.jpg
+	../../../Downloads/snapedit_1728624602392-Photoroom.png
+	../../../Downloads/snapedit_1728624602392.jpeg
+	../../../Downloads/snapedit_1728683477471.jpeg-Photoroom.png
+	../../../Downloads/snapedit_1728683477471.jpeg.png
+	../../../Downloads/snow.jpg
+	../../../Downloads/source_code.py
+	../../../Downloads/sowwwww.pdf
+	../../../Downloads/sparkh_logo.png
+	../../../Downloads/speech_20251119092632552.mp3
+	../../../Downloads/sqlite-dll-win-x86-3490000 (1).zip
+	../../../Downloads/sqlite-dll-win-x86-3490000.zip
+	../../../Downloads/sqlite-dll-win-x86-3490000/
+	../../../Downloads/sqlite-tools-win-x64-3490000.zip
+	../../../Downloads/stay consis design (1).png
+	../../../Downloads/std design.png
+	../../../Downloads/strawberry cake.jpeg
+	../../../Downloads/strawberry.jpeg
+	../../../Downloads/student.png
+	../../../Downloads/student_login.jpg
+	../../../Downloads/studentdetails.jpg
+	../../../Downloads/studentid.jpg
+	../../../Downloads/studymaterials.jpg
+	../../../Downloads/style.css
+	../../../Downloads/suku tea.jpeg
+	../../../Downloads/sunny.png
+	../../../Downloads/super_admin_module (1).zip
+	../../../Downloads/super_admin_module (1)/
+	../../../Downloads/super_admin_module (2).zip
+	../../../Downloads/super_admin_module.zip
+	../../../Downloads/super_admin_module/
+	../../../Downloads/swipe-icon-png-19-removebg-preview.png
+	../../../Downloads/swipe-icon-png-19.jpg
+	../../../Downloads/tandoorifish.jpeg
+	../../../Downloads/target.png
+	../../../Downloads/task-2.txt
+	../../../Downloads/tea.jpeg
+	../../../Downloads/tea1-removebg-preview.png
+	../../../Downloads/tea1.jpeg
+	../../../Downloads/tea2.jpeg
+	../../../Downloads/teacher.png
+	../../../Downloads/teacher01.png
+	../../../Downloads/teacher_erp_module.zip
+	../../../Downloads/teacher_erp_module/
+	../../../Downloads/teacher_login.jpg
+	../../../Downloads/teacherstudent.jpg
+	../../../Downloads/teamshk.pdf
+	../../../Downloads/tech_budget_plan .pdf
+	../../../Downloads/tele ceo (1).png
+	../../../Downloads/tele ceo.png
+	../../../Downloads/telephone.png
+	../../../Downloads/templatemo_602_graph_page.zip
+	../../../Downloads/templatemo_602_graph_page/
+	../../../Downloads/tesla.png
+	../../../Downloads/test-account.json
+	../../../Downloads/the-5th-wave-2016.zip
+	../../../Downloads/the-5th-wave-2016/
+	../../../Downloads/the-darkest-hour-2011_english-1957663.zip
+	../../../Downloads/the-darkest-hour-2011_english-1957663/
+	../../../Downloads/three.png
+	../../../Downloads/timetable.pdf
+	"../../../Downloads/title frame,text box,label,yellow,text box\342\200\246.jpeg"
+	../../../Downloads/tm logo.png
+	../../../Downloads/tomato.jpeg
+	../../../Downloads/trainer_schedule_report.csv
+	../../../Downloads/transactions-export-2026-03-22_12-03-23.csv
+	../../../Downloads/tree.jpeg
+	../../../Downloads/tremolo-regular_5pLT7.zip
+	../../../Downloads/truck.png
+	../../../Downloads/tsetup-x64.5.10.3.exe
+	../../../Downloads/ttitled design.png
+	../../../Downloads/twitter.png
+	../../../Downloads/two.png
+	../../../Downloads/two_student.png
+	../../../Downloads/txt2pdf_678fdeb07d893.pdf
+	../../../Downloads/txt2pdf_678fe0bd0a405.pdf
+	../../../Downloads/txt2pdf_679a2482788cb.pdf
+	../../../Downloads/txt2pdf_67a08ccf73bec.pdf
+	../../../Downloads/txt2pdf_67a08d152891e.pdf
+	../../../Downloads/txt2pdf_67a08d84ef1cc.pdf
+	../../../Downloads/ubuntu-24.04.2-desktop-amd64.iso
+	../../../Downloads/udemy hk.pdf
+	../../../Downloads/updated sarah.pdf
+	../../../Downloads/upload_history.jpeg
+	../../../Downloads/usb_driver_r13-windows.zip
+	../../../Downloads/user_roles-export-2026-03-22_12-03-47.csv
+	../../../Downloads/vada.jpg
+	../../../Downloads/vas.jpeg
+	../../../Downloads/vectorizer.pkl
+	../../../Downloads/vegetables1.jpeg
+	../../../Downloads/vivo.jpeg
+	../../../Downloads/vkcamedia.png
+	../../../Downloads/wallpaper - Copy.jpeg
+	../../../Downloads/wallpaper.jpeg
+	../../../Downloads/wallpaper.jpg
+	../../../Downloads/wallpaperflare.com_wallpaper (1).jpg
+	../../../Downloads/wallpaperflare.com_wallpaper (2).jpg
+	../../../Downloads/wallpaperflare.com_wallpaper (3).jpg
+	../../../Downloads/wallpaperflare.com_wallpaper (5).jpg
+	../../../Downloads/wallpaperflare.com_wallpaper.jpg
+	../../../Downloads/walt design.png
+	../../../Downloads/warren buffet 01.png
+	../../../Downloads/warren buffet 03.png
+	../../../Downloads/watch-Photoroom.png
+	../../../Downloads/watermelon juices.jpeg
+	../../../Downloads/watermelon1.jpeg
+	../../../Downloads/weather.png
+	../../../Downloads/weekly report week 06.docx
+	../../../Downloads/weekly report week 06.pdf
+	../../../Downloads/winrar-x64-624.exe
+	../../../Downloads/winrar-x64-700b2.exe
+	../../../Downloads/wolf design logo.jpeg
+	../../../Downloads/women1.png
+	../../../Downloads/women2.png
+	../../../Downloads/wordhk0252-1.pdf
+	../../../Downloads/wordhk251-1.pdf
+	../../../Downloads/wordhk251-2.pdf
+	../../../Downloads/wordhk252-1.pdf
+	../../../Downloads/wordhk252-2.pdf
+	../../../Downloads/wordphase1-1 (1).pdf
+	../../../Downloads/wordphase1-1 (2).pdf
+	../../../Downloads/wordphase1-1.pdf
+	../../../Downloads/wordphase1-2.pdf
+	../../../Downloads/wordphase2-1.pdf
+	../../../Downloads/wordphase2-2.pdf
+	../../../Downloads/workspace_members_2026-03-22_06-45.csv
+	../../../Downloads/wwwdesign.png
+	../../../Downloads/x twitter logo _ Twitter _ Social media logo.jpeg
+	../../../Downloads/xampp-windows-x64-8.0.30-0-VS16-installer.exe
+	../../../Downloads/xampp-windows-x64-8.2.12-0-VS16-installer.exe
+	../../../Downloads/xlhk251-1.pdf
+	../../../Downloads/xlhk251-2.pdf
+	../../../Downloads/xlhk251-3.pdf
+	../../../Downloads/yellowpepper.jpeg
+	../../../Downloads/youtube.png
+	../../../Downloads/zan-1BWBiUUT-AA-unsplash.jpg
+	"../../../Downloads/\320\232\321\200\320\260\321\201\320\275\320\260\321\217 \320\264\320\276\321\201\321\202\320\260\320\262\320\272\320\260 \320\260\320\262\321\202\320\276\320\274\320\276\320\261\320\270\320\273\320\265\320\274 \321\215\320\272\321\201\320\277\321\200\320\265\321\201\321\201 \320\264\320\276\321\201\321\202\320\260\320\262\320\272\320\260 \320\261\321\213\321\201\321\202\321\200\320\260\321\217 \320\264\320\276\321\201\321\202\320\260\320\262\320\272\320\260 \321\204\320\276\320\275 3D \321\200\320\265\320\275\320\264\320\265\321\200\320\270\320\275\320\263 \320\270\320\273\320\273\321\216\321\201\321\202\321\200\320\260\321\206\320\270\321\217 _ \320\221\320\265\321\201\320\277\320\273\320\260\321\202\320\275\320\276\320\265 \321\204\320\276\321\202\320\276.jpeg"
+	"../../../Downloads/\331\201\331\212\330\263\330\250\331\210\331\203 \331\204\331\210\330\254\331\210.jpeg"
+	"../../../Downloads/\342\235\244\357\270\217\342\235\244\357\270\217\342\235\244\357\270\217\360\237\214\271\360\237\207\246\360\237\207\252.jpeg"
+	"../../../Downloads/\360\237\217\206 UX Design _ Game Leaderboard.jpeg"
+	"../../../Downloads/\360\237\220\256.jpeg"
+	../../../ECOM-SHOP-HK/
+	../../../Favorites/
+	../../../IntelGraphicsProfiles/
+	../../../Links/
+	../../../Music/
+	../../../NTUSER.DAT
+	../../../NTUSER.DAT{b341dde8-6e25-11f1-a0d2-e97310fcb999}.TM.blf
+	../../../NTUSER.DAT{b341dde8-6e25-11f1-a0d2-e97310fcb999}.TMContainer00000000000000000001.regtrans-ms
+	../../../NTUSER.DAT{b341dde8-6e25-11f1-a0d2-e97310fcb999}.TMContainer00000000000000000002.regtrans-ms
+	../../../OneDrive/
+	../../../Pictures/
+	../../../REPO_SSH/
+	../../../RReact-App/
+	../../../SRFP/
+	../../../Saved Games/
+	../../../Searches/
+	../../../Untitled-1.cpp
+	../../../Untitled.ipynb
+	../../../Untitled1.ipynb
+	../../../Untitled10.ipynb
+	../../../Untitled11.ipynb
+	../../../Untitled12.ipynb
+	../../../Untitled13.ipynb
+	../../../Untitled14.ipynb
+	../../../Untitled15.ipynb
+	../../../Untitled16.ipynb
+	../../../Untitled17.ipynb
+	../../../Untitled18.ipynb
+	../../../Untitled19.ipynb
+	../../../Untitled2.ipynb
+	../../../Untitled20.ipynb
+	../../../Untitled21.ipynb
+	../../../Untitled22.ipynb
+	../../../Untitled3.ipynb
+	../../../Untitled4.ipynb
+	../../../Untitled5.ipynb
+	../../../Untitled6.ipynb
+	../../../Untitled7.ipynb
+	../../../Untitled8.ipynb
+	../../../Untitled9.ipynb
+	../../../Videos/
+	../../../anaconda_projects/
+	../../../array opertion.ipynb
+	../../../cd
+	../../../familyclass.ipynb
+	../../../hari123.py
+	../../../hh.txt
+	../../../jan170125.ipynb
+	../../../jan180125.ipynb
+	../../../jan210125.ipynb
+	../../../jan220125.ipynb
+	../../../jan2301025.ipynb
+	../../../jan230125ipynb
+	../../../java_error_in_studio.hprof
+	../../../mini-project/
+	../../../node_modules/
+	../../../ntuser.dat.LOG1
+	../../../ntuser.dat.LOG2
+	../../../ntuser.ini
+	../../../numpy.ipynb
+	../../../numpy2.ipynb
+	../../../package-lock.json
+	../../../package.json
+	../../../pandas.ipynb
+	../../../pratical.ipynb
+	../../../recursive function.ipynb
+	../../
+	../../../test/
+	../../../tuple op.ipynb
+	../../../untitled.py
+	../../../untitled.txt
+	../../../upload-keystore.jks
+
+no changes added to commit (use "git add" and/or "git commit -a")
